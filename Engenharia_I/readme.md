@@ -4,8 +4,6 @@ We see three critical differences between programming and software engineering: 
 
 Engenharia de Software pode ser definida como um processo centrado na análise de requisitos de um dado usuário para então poder projetar, montar e testar aplicações de software que não só satisfaçam os requisitos, mas que também providenciem um código enxuto, fácil de entender e de se fazer manutenção, visando a longevidade do código.
 
-1.1 Qual a relação com programação?
-
 2 - O que são Requisitos?
 
 Funcionalidade (Features) que precisam ser implementados em um dado projeto de software de acordo com as necessidades descritas pelo cliente para poder satisfazê-lo.
