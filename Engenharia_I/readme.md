@@ -23,5 +23,3 @@ Requisitos não funcionais estão atrelados à perfomance de um sistema ou a man
   -Um sistema deve carregar uma dada página em menos de 5 segundos se tiver uma certa quantidade de usuários acessando o sistema ao mesmo tempo
   
   -O sistema deve ser capaz de suportar um dado número de usuários simultâneos sem que haja uma mudança perceptível na performance.
-
-Desafio: Escreva dois exemplos de trade-offs envolvendo requisitos não funcionais
