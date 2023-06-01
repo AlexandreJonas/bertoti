@@ -4,6 +4,8 @@ We see three critical differences between programming and software engineering: 
 
 Engenharia de Software pode ser definida como um processo centrado na análise de requisitos de um dado usuário para então poder projetar, montar e testar aplicações de software que não só satisfaçam os requisitos, mas que também providenciem um código enxuto, fácil de entender e de se fazer manutenção, visando a longevidade do código. O processo também consiste em tomar decisões e escolhas de alto risco (trade-off) onde se encontrar necessário abrir mão de algum fator/qualidade positiva por outra que possa de maior valor para o cliente ou que garanta uma maior estabilidade do sistema a longo prazo.
 
+Um exemplo de trade-off seria comprimir uma imagem a fim de reduzir o tempo de transmissão de dados e/ou a performance da CPU, o que pode resultar numa perda siginificativa da qualidade da imagem. Outro exemplo seria juntar mais funcionalidades do sistema em uma única tela com o objetivo de melhorar a usabilidade para o usuário, em troca de um sistema que pode ter uma performance mais lenta.
+
 2 - O que são Requisitos?
 
 Funcionalidade (Features) que precisam ser implementados em um dado projeto de software de acordo com as necessidades descritas pelo cliente para poder satisfazê-lo.
