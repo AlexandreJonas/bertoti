@@ -14,7 +14,7 @@ public class Loja {
     
     public void notifyObservers(String msg){
         observers.stream().forEach((k) -> {
-            k.notify(msg);
+            k.update(msg);
         });
     }
     

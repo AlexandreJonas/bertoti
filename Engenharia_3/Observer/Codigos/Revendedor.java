@@ -1,5 +1,5 @@
 public class Revendedor implements Observer{
-    public void notify(String msg){
+    public void update(String msg){
         System.out.println(msg);
     }
 }
