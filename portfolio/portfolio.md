@@ -1,12 +1,16 @@
-# Coloque seu nome aqui
+# Alexandre Jonas de Souza Fonseca
 
 ## Introdução
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
+Formado como Técnico em Mecatrônica, atualmente estou cursando Banco de Dados pela FATEC com dois anos de Engenharia da Computação na Unifesp.
+
+Trabalhei na empresa Jetsoft como estagiário e eventualmente Analista e Desenvolvedor Genexus Junior atuando na manutenção de sistemas legados. Atualmente estou estagiando na Embraer atuando na área de Desenvolvimento de Soluções, fazendo o papel de um dos Líderes de Soluções Técnicas.
+
+Durante o ensino médio também participei do projeto F.I.R.S.T. ETEP TEAM como líder / focal point da área de programação do time. O projeto visa o trabalho em equipe e aplicação de conhecimentos técnicos para a construção de um robô em 6 semanas.
 
 ## Contatos
-* [GIT](https://www.git.com)
-* [LinkedIn](https://www.linkedin.com)
+* [GIT](https://github.com/AlexandreJonas)
+* [LinkedIn](https://www.linkedin.com/in/alexandre-jonas-de-souza-fonseca-989920181/)
 
 ## Meus Principais Conhecimentos
 Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
