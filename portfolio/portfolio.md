@@ -28,7 +28,9 @@ Durante o ensino médio também participei do projeto F.I.R.S.T. ETEP TEAM como 
 
 ## Meus Projetos
 
-### Em 2021-2
+### 3° Semestre
+Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plataforma web para o registro, classificação e consulta de notícias publicadas em sites como G1, Gazeta, Veja, Estadão e InfoMoney e UOL
+
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 
 [GIT](https://www.git.com)
