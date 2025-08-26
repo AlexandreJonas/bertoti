@@ -13,8 +13,18 @@ Durante o ensino médio também participei do projeto F.I.R.S.T. ETEP TEAM como 
 * [LinkedIn](https://www.linkedin.com/in/alexandre-jonas-de-souza-fonseca-989920181/)
 
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
 
+- Labview,
+- Genexus 17, Genexus X Evolution 2, Genexus X Evolution 3,
+- Visual Basic 6
+- SQLServer, Oracle, PostgreSQL,
+- C, C++, Visual C#,
+- Python, Flask,
+- Java, Springboot, Jsoup
+- HTML, CSS,
+- Typescript, Javascript, React, Vue
+- PicBasic Pro, MikroC,
+- Arduino, PIC, Raspberry,
 
 ## Meus Projetos
 
