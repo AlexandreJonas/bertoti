@@ -29,7 +29,9 @@ Durante o ensino médio também participei do projeto F.I.R.S.T. ETEP TEAM como 
 ## Meus Projetos
 
 ### 3° Semestre
-Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plataforma web para o registro, classificação e consulta de notícias publicadas em sites como G1, Gazeta, Veja, Estadão e InfoMoney e UOL
+Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plataforma web para o registro, classificação e consulta de notícias publicadas em sites como G1, UOL, Gazeta, Veja, Estadão e InfoMoney.
+
+É possível cadastrar quaisquer portal de notícias e configurá-los dinamicamente para que o NewsHub automaticamente salve as notícias dentro de seu repositório sem precisar acessar constantemente os portais.
 
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 
