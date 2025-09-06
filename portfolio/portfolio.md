@@ -33,21 +33,37 @@ Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plat
 
 É possível cadastrar quaisquer portal de notícias e configurá-los dinamicamente para que o NewsHub automaticamente salve as notícias dentro de seu repositório sem precisar acessar constantemente os portais.
 
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+***Procurar GIFs/Videos***
 
-[GIT](https://www.git.com)
+* [GIT](https://github.com/FatecCoderHood/GSW_API)
 
 #### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+- Vue.js: Framework Javascript para o desenvolvimento de interafces web. Permitindo ao usuário a visualização das notícias e a configuração de portais.
+- SpringBoot: Framework Java utilizado para a criação de serviços RESTful. Estes serviços REST são utilizados pela interface web do projeto.
+- SpringBoot Cron: Ferramenta do Spirngboot que permite a execução rotineira (por exemplo: a cada n horas ou n dias) de uma função customizada. Utilizada para realizar o scarping de notícias em determinados períodos de tempo
+- Jsoup: Biblioteca Java que atua como um parser HTML. Responsável pela função de 'scraping' das notícias dos portais que o usuário configurou.
+- MySQL: Banco relacional usado para o registro das notícias e configurações dos portais.
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+- Contribuição com a normalização do Diagrama Entidade-Relacionamento, garantindo que não exista dados redundantes.
+- Desenvolovimento de CRUDs de algumas das entidades através do serviços REST criados pelo SpringBoot.
+- Responsável pelas tasks de estudo de tecnologias como Springboot e Jsoup e apresentando um modelo de exemplo para o time.
+- Desenvolvimento da função de scraping no backend do projeto. Garantindo um código enxuto e reutilizável para o scraping de vários portais em sequência e parametrizado para atender às configurações específicas de cada portal conforme registrado pelo usuário.
+- Desenvolvimento da configuração rotineira do scarping, se aproveitando do código reutilizável e parametrizado do item anterior para garantir a fácil configuração de quando o scarping de notícias deve ser realizado.
+- Implementação de validações para garantir que não sejam cadastrados tags ou portaos repetidos.
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+- SpringBoot: Autonomia Total. Estudo realizado de forma autônoma para passar como modelo para o resto da equipe.
+- SpringBoot Cron: Autonomia Total.
+- Jsoup: Autonomia Total.
+- MySQL: Autonomia Total.
 
 #### Soft Skills
 Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+- Organização: Detalhamento técnico de tasks no mais baixo nível possível para auxiliar a entrega das tasks de outros membros da equipe
+- Comunicação e Trabalho em Equipe: Não só constantemente informando o SM e a PO sobre o estado das minhas tasks, como também entrava em contato com outros membros e verificar se eles estão com dificuldades com as suas tasks
+- Pró-atividade: Antes mesmo de formalizar a tasks eu já tentava realizar pesquisas ou testes de ferramentas ou features que ainda não tínhamos tanto certeza do funcionamento para manter o ritmo da entrega. Caso algum membro estivesse com muita dificuldade em uma task essencial, eu me oferecia para ou ajudar, ou assumir a task.
+- Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final para requisitos que podiam gerar impedimentos como garantir que o código de scraping atenda a necessidade de atuar de forma dinâmica de acordo com as configurações específicas de cada portal
 
 ### Em 2022-1
 Mesmo formato
