@@ -21,7 +21,7 @@ Durante o ensino médio também participei do projeto F.I.R.S.T. ETEP TEAM como 
 - C, C++, Visual C#,
 - Python, Flask,
 - Java, Springboot, Jsoup
-- HTML, CSS,
+- HTML, CSS, Bootstrap
 - Typescript, Javascript, React, Vue
 - PicBasic Pro, MikroC,
 - Arduino, PIC, Raspberry,
@@ -84,8 +84,20 @@ A plataforma inclui funções como a configuração personalizada do layout de c
 
 #### Contribuições Pessoais
 - Visual de acordo com o figma na sprint 1
+- Exibição de OS de acordo com os dados já cadastrados no banco
 - Implementação da renderização dinâmica da página de configuração de laboratórios
+- Funcionalidade do técnico poder adicionar um comentário a Ordem de Serviço após finalizar a manutenção
+- Funcionalidade de alteração do status da OS de reportada para resolvida
+- Separação visual entre as OS reportadas e as OS resolvidas
+- Ao visualizar o layout de um laboratório, é constatado quais máquinas estão com OS reportadas
 - Deploy e estudo no Python Anywhere
+
+#### Hard Skills
+- HTML / CSS: Autonomia Total.
+- Bootstrap: Autonomia em partes***. Utilizei as classes de acordo com código já feito por outros membro.
+- Javascript: Autonomia em partes***. Código escrito foi feito por base em código já feito por outro integrante.
+- Python / Flask: Autonomia Total.
+- MySQL: Dependência da modelagem de outro membro
 
 ### Em 2022-2
 Mesmo formato
