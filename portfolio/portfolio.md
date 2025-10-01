@@ -1,5 +1,9 @@
 # Alexandre Jonas de Souza Fonseca
 
+<div align="center">
+  <img src="assets/portfolioPFP.jpg" alt="Foto de perfil" width="400" />
+</div>
+
 ## Introdução
 
 Formado como Técnico em Mecatrônica, atualmente estou cursando Banco de Dados pela FATEC com dois anos de Engenharia da Computação na Unifesp e dois anos de Análise e Desenvolvimento de Sistemas na FATEC.
