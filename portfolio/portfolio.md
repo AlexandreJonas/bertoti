@@ -65,8 +65,27 @@ Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em q
 - Pró-atividade: Antes mesmo de formalizar a tasks eu já tentava realizar pesquisas ou testes de ferramentas ou features que ainda não tínhamos tanto certeza do funcionamento para manter o ritmo da entrega. Caso algum membro estivesse com muita dificuldade em uma task essencial, eu me oferecia para ou ajudar, ou assumir a task.
 - Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final para requisitos que podiam gerar impedimentos como garantir que o código de scraping atenda a necessidade de atuar de forma dinâmica de acordo com as configurações específicas de cada portal
 
-### Em 2022-1
-Mesmo formato
+### 1° Semestre
+Atendendo a um cliente interno da FATEC, o projeto de API do primeiro semestre engloba uma plataforma web para o relato e verificação de quaisquer problemas em um ou mais computadores localizados em qualquer labortório da FATEC SJC.
+
+A plataforma inclui funções como a configuração personalizada do layout de cada laboratório (Número de mesas e de máquinas por mesa por exemplo), facilitando a identificação da máquina tanto para o aluno relatando o problema, quanto para o técnico que irá realizar a manutenção.
+
+***Procurar GIFs/Videos***
+
+* [GIT](https://github.com/m-u-l-a-s/BIOS)
+
+#### Tecnologias Utilizadas
+- HTML / CSS: Estruturação e estilização das páginas.
+- Bootstrap: Framework frontend para a fácil estilização responsiva de páginas webs.
+- Javascript: Utilizado para a manipulação de elementos HTML em tempo de execução.
+- Flask: Framework web Python utilizado para a renderização dinâmica de páginas webs de acordo com os valores vindos do banco de dados.
+- Python Anywhere: Plataforma utilizada para hospedar tanto a plataforma web, quanto a base de dados
+- MySQL: Banco relacional usado para o registro dos relatos (Ordens de Serviço) e das configurações do laboratório.
+
+#### Contribuições Pessoais
+- Visual de acordo com o figma na sprint 1
+- Implementação da renderização dinâmica da página de configuração de laboratórios
+- Deploy e estudo no Python Anywhere
 
 ### Em 2022-2
 Mesmo formato
