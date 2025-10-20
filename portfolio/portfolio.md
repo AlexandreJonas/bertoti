@@ -1,6 +1,5 @@
-# Alexandre Jonas de Souza Fonseca
-
 <div align="center">
+  <h1> Alexandre Jonas de Souza Fonseca </h1>
   <img src="assets/portfolioPFP.jpg" alt="Foto de perfil" width="400" />
 </div>
 
@@ -32,7 +31,7 @@ Durante o ensino médio também participei do projeto F.I.R.S.T. ETEP TEAM como 
 
 ## Meus Projetos
 
-### 1° Semestre
+### 1° Semestre - Sistema BIOS
 Atendendo a um cliente interno da FATEC, o projeto de API do primeiro semestre engloba uma plataforma web para o relato e verificação de quaisquer problemas em um ou mais computadores localizados em qualquer labortório da FATEC SJC.
 
 A plataforma inclui funções como a configuração personalizada do layout de cada laboratório (Número de mesas e de máquinas por mesa por exemplo), facilitando a identificação da máquina tanto para o aluno relatando o problema, quanto para o técnico que irá realizar a manutenção.
@@ -70,6 +69,20 @@ A plataforma inclui funções como a configuração personalizada do layout de c
 - Comunicação e Trabalho em Equipe: Durante a ausência do Scrum Master em reuniões / discussões devido a imprevistos, assumi o papel do mesmo para garantir a contínua prática da Metodologia Ágil e resolver quaisquer impedimentos que poderiam afetar o desenvolvimento do projeto.
 - Pró-atividade: Antes de serem definidas discussões sobre realizar o deploy da aplicação, já corri atrás de plataformas que poderiam ser usadas. Assim após realizar com sucesso alguns testes de viabilidade técnica na Python Anywhere eu trouxe nas reuniões a possibilidade fazer tasks de deploy.
 - Resolução de Problemas: Desenvolvimento da lógica por trás da configuração e exibição dinâmica dos layouts de laboratório
+
+### 2° Semestre: PARE - Plataforma de Acompanhamento de Rendimento Escolar
+Atendendo novamente um cliente interno da FATEC, foi desenvolvido uma aplicação Desktop visando auxiliar professores em atividades como acompanhamento de desempenho de alunos e a documentação/organização de provas. A aplicação tem como público alvo educadores que durante a aula não possuem conexão com a internet, ou não possuem acesso a plataformas com algumas funções em comum como o SIGA da FATEC.
+
+Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou agendadas, além da verificação individual de um aluno e suas notas. Também existe a função de cadastro de salas e seus horários, bem como a de seus alunos.
+
+***Procurar GIFs/Videos***
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-u-l-a-s/PARE)
+
+#### Tecnologias Utilizadas
+- Java: Todo o código do projeto foi feito nesta linguagem, conforme requisitos do projeto
+- Java Swing: Pacote de componentes gráficos visando a fácil construção formulários GUI (Graphical User Interface).
+- MySQL: Banco relacional usado para o registro dos relatos (Ordens de Serviço) e das configurações do laboratório.
 
 ### 3° Semestre
 Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plataforma web para o registro, classificação e consulta de notícias publicadas em sites como G1, UOL, Gazeta, Veja, Estadão e InfoMoney.
