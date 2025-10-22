@@ -60,8 +60,8 @@ A plataforma inclui funções como a configuração personalizada do layout de c
 
 #### Hard Skills
 - HTML / CSS: Autonomia Total.
-- Bootstrap: Autonomia em partes***. Utilizei as classes de acordo com código já feito por outros membro.
-- Javascript: Autonomia em partes***. Código escrito foi feito por base em código já feito por outro integrante.
+- Bootstrap: Autonomia Parcial. Utilizei as classes de acordo com código já feito por outros membro.
+- Javascript: Autonomia Parcial. Código escrito foi feito por base em código já feito por outro integrante.
 - Python / Flask: Autonomia Total.
 - MySQL: Dependência da modelagem de outro membro
 
@@ -83,6 +83,28 @@ Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou
 - Java: Todo o código do projeto foi feito nesta linguagem, conforme requisitos do projeto
 - Java Swing: Pacote de componentes gráficos visando a fácil construção formulários GUI (Graphical User Interface).
 - MySQL: Banco relacional usado para o registro dos relatos (Ordens de Serviço) e das configurações do laboratório.
+
+#### Contribuições Pessoais
+- Responsável pela modelagem do banco de dados utilizado para o projeto
+- Estudo, passagem de conhecimento e criação de exemplos de interfaces gráficas utilizando Java Swing
+- Papel de Scrum Master
+- Atualização da Documentação e de artefatos como o Gráfico Burndown
+- Sugestão / Modelagem da tela a fim de que a mesma permita o cadastro dinâmico de vários alunos de uma só vez
+- Desenvolvimento da feature de inserção de vários alunos
+- Correção de bugs (Perda de dados ao minimizar a tela, trabalhos com status incorreto, etc.)
+- Função de atualizar notas e data de entrega de trabalhos
+- Exibição de alunos com entregas atrasadas
+
+#### Hard Skills
+- Java: Autonomia Total.
+- Java Swing: Autonomia Total
+- MySQL: Autonomia Total
+
+#### Soft Skills
+- Organização: Detalhamento técnico de tasks no mais baixo nível possível para auxiliar a entrega das tasks de outros membros da equipe
+- Comunicação e Trabalho em Equipe: Ao atuar como Scrum Master, sempre verificava o andamento de tarefas, e solicitando que membros com tarefas adiantadas ajudassem outros membros que demonstraram dificuldades.
+- Pró-atividade: Antes mesmo de formalizar a tasks eu já tentava realizar pesquisas ou testes de ferramentas ou features que ainda não tínhamos tanto certeza do funcionamento para manter o ritmo da entrega.
+- Criatividade: Propor soluções para que o usuário consiga realizar vários cadastros de várias entidades de uma só vez no menor número de telas possível, a fim de melhorar a usabilidade. O resultado final foi uma aplicação a qual o usuário utilizava apenas duas telas, sendo que a solução da maioria dos outros grupos foi necessário pelo menos 5 telas
 
 ### 3° Semestre
 Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plataforma web para o registro, classificação e consulta de notícias publicadas em sites como G1, UOL, Gazeta, Veja, Estadão e InfoMoney.
@@ -115,20 +137,10 @@ Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plat
 - MySQL: Autonomia Total.
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
 - Organização: Detalhamento técnico de tasks no mais baixo nível possível para auxiliar a entrega das tasks de outros membros da equipe
 - Comunicação e Trabalho em Equipe: Não só constantemente informando o SM e a PO sobre o estado das minhas tasks, como também entrava em contato com outros membros e verificar se eles estão com dificuldades com as suas tasks
 - Pró-atividade: Antes mesmo de formalizar a tasks eu já tentava realizar pesquisas ou testes de ferramentas ou features que ainda não tínhamos tanto certeza do funcionamento para manter o ritmo da entrega. Caso algum membro estivesse com muita dificuldade em uma task essencial, eu me oferecia para ou ajudar, ou assumir a task.
 - Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final para requisitos que podiam gerar impedimentos como garantir que o código de scraping atenda a necessidade de atuar de forma dinâmica de acordo com as configurações específicas de cada portal
-
-### Em 2022-2
-Mesmo formato
-
-### Em 2023-1
-Mesmo formato
-
-### Em 2023-2
-Mesmo formato
 
 
 
