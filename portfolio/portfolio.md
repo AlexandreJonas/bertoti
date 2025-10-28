@@ -7,7 +7,7 @@
 
 Formado como Técnico em Mecatrônica, atualmente estou cursando Banco de Dados pela FATEC com dois anos de Engenharia da Computação na Unifesp e dois anos de Análise e Desenvolvimento de Sistemas na FATEC.
 
-Trabalhei na empresa Jetsoft como estagiário e eventualmente Analista e Desenvolvedor Genexus Junior atuando na manutenção de sistemas legados. Atualmente estou estagiando na Embraer atuando na área de Desenvolvimento de Soluções, fazendo o papel de Líder de Soluções Técnicas em sistemas utilizados pela área de Engenharia.
+Trabalhei na empresa Jetsoft como estagiário e eventualmente Analista e Desenvolvedor Genexus Junior atuando na manutenção de sistemas legados. Atualmente estou trabalhando na área de Desenvolvimento de Soluções da Embraer, fazendo o papel de Líder de Soluções Técnicas em sistemas utilizados pela área de Engenharia.
 
 Durante o ensino médio também participei do projeto F.I.R.S.T. ETEP TEAM como líder / focal point da área de programação do time. O projeto visa o trabalho em equipe e aplicação de conhecimentos técnicos para a construção de um robô em 6 semanas.
 
@@ -31,7 +31,7 @@ Durante o ensino médio também participei do projeto F.I.R.S.T. ETEP TEAM como 
 
 ## Meus Projetos
 
-### 1° Semestre - Sistema BIOS
+### 1° Semestre - BIOS
 Atendendo a um cliente interno da FATEC, o projeto de API do primeiro semestre engloba uma plataforma web para o relato e verificação de quaisquer problemas em um ou mais computadores localizados em qualquer labortório da FATEC SJC.
 
 A plataforma inclui funções como a configuração personalizada do layout de cada laboratório (Número de mesas e de máquinas por mesa por exemplo), facilitando a identificação da máquina tanto para o aluno relatando o problema, quanto para o técnico que irá realizar a manutenção.
@@ -106,14 +106,14 @@ Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou
 - Pró-atividade: Antes mesmo de formalizar a tasks eu já tentava realizar pesquisas ou testes de ferramentas ou features que ainda não tínhamos tanto certeza do funcionamento para manter o ritmo da entrega.
 - Criatividade: Propor soluções para que o usuário consiga realizar vários cadastros de várias entidades de uma só vez no menor número de telas possível, a fim de melhorar a usabilidade. O resultado final foi uma aplicação a qual o usuário utilizava apenas duas telas, sendo que a solução da maioria dos outros grupos foi necessário pelo menos 5 telas
 
-### 3° Semestre
+### 3° Semestre - NewsHub
 Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plataforma web para o registro, classificação e consulta de notícias publicadas em sites como G1, UOL, Gazeta, Veja, Estadão e InfoMoney.
 
 É possível cadastrar quaisquer portal de notícias e configurá-los dinamicamente para que o NewsHub automaticamente salve as notícias dentro de seu repositório sem precisar acessar constantemente os portais.
 
 ***Procurar GIFs/Videos***
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/m-u-l-a-s/BIOS](https://github.com/FatecCoderHood/GSW_API))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatecCoderHood/GSW_API)
 
 #### Tecnologias Utilizadas
 - Vue.js: Framework Javascript para o desenvolvimento de interafces web. Permitindo ao usuário a visualização das notícias e a configuração de portais.
@@ -142,8 +142,14 @@ Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plat
 - Pró-atividade: Antes mesmo de formalizar a tasks eu já tentava realizar pesquisas ou testes de ferramentas ou features que ainda não tínhamos tanto certeza do funcionamento para manter o ritmo da entrega. Caso algum membro estivesse com muita dificuldade em uma task essencial, eu me oferecia para ou ajudar, ou assumir a task.
 - Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final para requisitos que podiam gerar impedimentos como garantir que o código de scraping atenda a necessidade de atuar de forma dinâmica de acordo com as configurações específicas de cada portal
 
+### 4° Semestre - Manipulação de dados geoespaciais em tempo real
+Atendendo as demandas da empresa parceira Visiona, foi desenvolvido uma plataforma web para a visualização e edição de dados geoespaciais de talhões agrícolas. O objetivo da aplicação é permitir que o analista realize correções destes dados geoespaciais, que vieram a partir de modelos de inteligência artificial.
 
+O sistema permite o cadastro e visualização destes dados geoespaciais de talhões através de um arquivo na extensão .json. Além da edição/correção do mesmo em tempo real mostrado em um mapa. A aplicação também contempla o cadastro de três tipos de usuários: Administrador, Analista e Consultor)
 
-
+#### Tecnologias Utilizadas
+- Vue.js: Framework Javascript para o desenvolvimento de interafces web. Permitindo ao usuário a visualização das notícias e a configuração de portais.
+- SpringBoot: Framework Java utilizado para a criação de serviços RESTful. Estes serviços REST são utilizados pela interface web do projeto.
+- MySQL: Banco relacional usado para o registro das notícias e configurações dos portais. ALTERAR
 
 
