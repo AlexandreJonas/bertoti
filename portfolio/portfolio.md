@@ -158,10 +158,22 @@ O sistema permite o cadastro e visualização destes dados geoespaciais de talh�
 - Leaflet: Biblioteca Javascript para a criação de mapas interativos. Estes mapas é onde os dados geoespaciais são carregados
 - Leaflet.draw: Plug-in do Leaflet que permite o desenho, edição, e exclusão de vetores / polígonos que são carregados no mapa interativo do leaftlet. Utilizado para a correção da análise da talhões.
 
-#### Contribuições Pessoais (Draft)
+#### Contribuições Pessoais
 - Scripts de criação e inserção de tabela de permissão e logs conforme modelo do banco
-- Ajustes Visuais na primeira sprint na tela d elogin para ficar de acordo com a paleta de cores do cliente
+- Ajustes Visuais na primeira sprint na tela de login para ficar de acordo com a paleta de cores do cliente
 - Integração do Front com o Back para a função CRUD de usuários, incluindo modais de confirmação / aviso
-- Toda a função do mapa interativo
-- Correção de bug de cadastrar / editar usuário -> Model do back não estava atualzado
-- Funcionalidade de atualizar e/ou aprovar safra
+- Toda funcionalidade do mapa interativo ao carregar os dados geoespaciais da safra
+- Correção de bugs de cadastro e edição devido a discrepância entre o novo banco e as classes de Model do back
+- Funcionalidade de atualizar (corrigir) os dados geoespaciais de uma safra
+- Função de um usuário poder aprovar as correções feitas em uma safra
+
+#### Hard Skills
+- Vue.js: Autonomia Total de acordo com o que foi explicado na matéria de Lab BD IV
+- SpringBoot: Autonomia Total
+- MySQL: Autonomia Total
+- Leaflet: Autonomia total. Estudo autônomo
+
+#### Soft Skills
+- Organização: Detalhamento técnico pessoal de como separar os passos para as implementações do mapa interativo em Leaflet
+- Comunicação e Trabalho em Equipe: Ajuda na equipe no desenvolvimento de tasks de outros integrantes que aprsentam bugs ou não estavam 'prontas' devido ao entendimento do requisito
+- Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final para requisitos que podiam gerar impedimentos como garantir que o código de scraping atenda a necessidade de atuar de forma dinâmica de acordo com as configurações específicas de cada portal
