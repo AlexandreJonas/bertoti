@@ -36,9 +36,13 @@ Atendendo a um cliente interno da FATEC, o projeto de API do primeiro semestre e
 
 A plataforma inclui funções como a configuração personalizada do layout de cada laboratório (Número de mesas e de máquinas por mesa por exemplo), facilitando a identificação da máquina tanto para o aluno relatando o problema, quanto para o técnico que irá realizar a manutenção.
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-u-l-a-s/BIOS)
+
 ***Procurar GIFs/Videos***
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-u-l-a-s/BIOS)
+<div align="center">
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre1.png" alt="Projeto 1° Semestre" width="800" />
+</div>
 
 #### Tecnologias Utilizadas
 - HTML / CSS: Estruturação e estilização das páginas.
@@ -75,9 +79,13 @@ Atendendo novamente um cliente interno da FATEC, foi desenvolvido uma aplicaçã
 
 Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou agendadas, além da verificação individual de um aluno e suas notas. Também existe a função de cadastro de salas e seus horários, bem como a de seus alunos.
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-u-l-a-s/PARE)
+
 ***Procurar GIFs/Videos***
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-u-l-a-s/PARE)
+<div align="center">
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre2.jpg" alt="Projeto 2° Semestre" width="800" />
+</div>
 
 #### Tecnologias Utilizadas
 - Java: Todo o código do projeto foi feito nesta linguagem, conforme requisitos do projeto
@@ -147,9 +155,13 @@ Atendendo as demandas da empresa parceira Visiona, foi desenvolvido uma platafor
 
 O sistema permite o cadastro e visualização destes dados geoespaciais de talhões através de um arquivo na extensão .json. Além da edição/correção do mesmo em tempo real mostrado em um mapa. A aplicação também contempla o cadastro de três tipos de usuários: Administrador, Analista e Consultor)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PorygonAPI/Porygon3)
+
 ***Procurar GIFs/Videos***
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PorygonAPI/Porygon3)
+<div align="center">
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre4.jpg" alt="Projeto 2° Semestre" width="800" />
+</div>
 
 #### Tecnologias Utilizadas
 - Vue.js: Framework Javascript para o desenvolvimento de interafces web. Permitindo ao usuário a visualização das notícias e a configuração de portais.
