@@ -200,7 +200,7 @@ Além da transformação de dados, o projeto deste semestre também incluiu a ap
 ***Procurar GIFs/Videos***
 
 <div align="center">
-  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre4.jpg" alt="Projeto 2° Semestre" width="800" />
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre5.webp" alt="Projeto 5° Semestre" width="800" />
 </div>
 
 #### Tecnologias Utilizadas
