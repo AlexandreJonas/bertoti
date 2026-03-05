@@ -189,3 +189,25 @@ O sistema permite o cadastro e visualização destes dados geoespaciais de talh�
 - Organização: Detalhamento técnico pessoal de como separar os passos para as implementações do mapa interativo em Leaflet
 - Comunicação e Trabalho em Equipe: Ajuda na equipe no desenvolvimento de tasks de outros integrantes que aprsentam bugs ou não estavam 'prontas' devido ao entendimento do requisito
 - Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final para requisitos que podiam gerar impedimentos como garantir que o código de scraping atenda a necessidade de atuar de forma dinâmica de acordo com as configurações específicas de cada portal
+
+### 5° Semestre - Dashboard de Gestão Inteligente de Projetos
+Em parceria com a Necto, uma empresa de desenvolvimento de software, montamos uma plataforma centralizada de inteligência de negócios para gestão de projetos. Fornecendo uma maior visibilidade de indicadores e dados críticos vindos da plataforma JIRA, facilitando o processo de tomada de decisões.
+
+Além da transformação de dados, o projeto deste semestre também incluiu a aplicação das práticas de DevOps, incluindo Deploy Automático, Integração Contínua (CI) e Testes Automatizados
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatecNeoHorizon/API_5S)
+
+***Procurar GIFs/Videos***
+
+<div align="center">
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre4.jpg" alt="Projeto 2° Semestre" width="800" />
+</div>
+
+#### Tecnologias Utilizadas
+- HTML / CSS: Estruturação e estilização das páginas.
+- Bootstrap: Framework frontend para a fácil estilização responsiva de páginas webs.
+- React: Biblioteca Javascript utilizadao para a construção de componentes dashboard com os dados e indicadores que foram extraídos e transformaados do JIRA
+- SpringBoot: Framework Java utilizado para a criação de serviços RESTful. Estes serviços REST são utilizados pela interface web do projeto e para realizar a carga de dados vindos do JIRA.
+- PostgreSQL: Banco utilizando o modelo estrela para o data warehouse dos dados que se originaram do JIRA.
+- Python: Utilizado na fase de Extração, Transformação e Carga (ETL) dos dados do JIRA e inserindo-os no nosso Data Warehouse
+- Github Actions: Plataforma de integração e e entrega contínua (CI/CD) utilizado para a aprovação automática de Pull Requests se não houver problemas durante a execução automática de testes e do deploy automatizado
