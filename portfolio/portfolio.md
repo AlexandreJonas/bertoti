@@ -9,7 +9,7 @@ Formado como Técnico em Mecatrônica, atualmente estou cursando Banco de Dados 
 
 Trabalhei na empresa Jetsoft como estagiário e eventualmente Analista e Desenvolvedor Genexus Junior atuando na manutenção de sistemas legados. Atualmente estou trabalhando na área de Desenvolvimento de Soluções da Embraer, fazendo o papel de Líder de Soluções Técnicas em sistemas utilizados pela área de Engenharia.
 
-Durante o ensino médio também participei do projeto F.I.R.S.T. ETEP TEAM como líder / focal point da área de programação do time. O projeto visa o trabalho em equipe e aplicação de conhecimentos técnicos para a construção de um robô em 6 semanas.
+Durante o ensino médio também participei da competição de robótica F.I.R.S.T. ETEP TEAM como líder / focal point da área de programação do time. O projeto visa o trabalho em equipe e aplicação de conhecimentos técnicos para a construção de um robô em 6 semanas.
 
 ## Contatos
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexandreJonas)
@@ -211,3 +211,16 @@ Além da transformação de dados, o projeto deste semestre também incluiu a ap
 - PostgreSQL: Banco utilizando o modelo estrela para o data warehouse dos dados que se originaram do JIRA.
 - Python: Utilizado na fase de Extração, Transformação e Carga (ETL) dos dados do JIRA e inserindo-os no nosso Data Warehouse
 - Github Actions: Plataforma de integração e e entrega contínua (CI/CD) utilizado para a aprovação automática de Pull Requests se não houver problemas durante a execução automática de testes e do deploy automatizado
+
+#### Contribuições Pessoais
+- Definição de toda a modelagem do banco não relacional
+- Construção de serviços CRUD para as entidades de dimensão de Projetos, Desenvolvedores, Status, Tipo
+- Construção de serviços CRUD para as tabelas Fato de Issue e Custo Hora
+- Contrução de serviço para a remoção de dados não associados a Desenvolvedores. Para facilitar a performance do ETL
+- Criação e implementação do workflow de CI (Continuous Integration), permitindo a aprovação e merge automático de PRs. Aumentando a produtividade do time.
+- Arquitetura inicial do código utilizado para o ETL
+- Operação do ETL de Issues, Períodos, Tipos, Status e Fato Apontamento Horas
+- Correções visuais de Dashboard de Horas
+- Integração do Front com Back com os dados de Horas por Desenvolvedor
+- Integração e Correção da Dashboard de Contagem de Bugs
+
