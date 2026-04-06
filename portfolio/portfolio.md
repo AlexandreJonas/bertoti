@@ -188,7 +188,7 @@ O sistema permite o cadastro e visualização destes dados geoespaciais de talh�
 #### Soft Skills
 - Organização: Detalhamento técnico pessoal de como separar os passos para as implementações do mapa interativo em Leaflet
 - Comunicação e Trabalho em Equipe: Ajuda na equipe no desenvolvimento de tasks de outros integrantes que aprsentam bugs ou não estavam 'prontas' devido ao entendimento do requisito
-- Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final para requisitos que podiam gerar impedimentos como garantir que o código de scraping atenda a necessidade de atuar de forma dinâmica de acordo com as configurações específicas de cada portal
+- Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final para a edição e exclusão interativa dos mapas no leaflet
 
 ### 5° Semestre - Dashboard de Gestão Inteligente de Projetos
 Em parceria com a Necto, uma empresa de desenvolvimento de software, montamos uma plataforma centralizada de inteligência de negócios para gestão de projetos. Fornecendo uma maior visibilidade de indicadores e dados críticos vindos da plataforma JIRA, facilitando o processo de tomada de decisões.
@@ -224,3 +224,15 @@ Além da transformação de dados, o projeto deste semestre também incluiu a ap
 - Integração do Front com Back com os dados de Horas por Desenvolvedor
 - Integração e Correção da Dashboard de Contagem de Bugs
 
+#### Hard Skills
+- HTML / CSS & Bootstrap: Autonomia Total de acordo com o que foi explicado no primeiro semestre de ADS
+- React: Autonomia Total de acordo com o que foi ensinado no terceiro semestre de ADS
+- SpringBoot: Autonomia Total de acordo com o que foi aprendido durante a matéria de Laboratório de Banco de Dados III
+- PostgreSQL: Autonomia Total. Estudo autônomo.
+- Python: Autonomia total. Estudo autônomo
+- Github Actions: Autonomia total. Estudo autônomo
+
+#### Soft Skills
+- Organização: Detalhamento técnico pessoal de como separar os passos para as implementações da integração do ETL e da modelagem geral dos dados
+- Comunicação e Trabalho em Equipe: Ajuda na equipe no desenvolvimento de tasks de outros integrantes que aprsentam bugs ou não estavam 'prontas' devido ao entendimento do requisito
+- Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final do ETL. Pensar em formas de corrigir os bugs visuais de alguns gráficos, que foram feitos por outro integrante. Desenvolvimento do fluxo de CI.
