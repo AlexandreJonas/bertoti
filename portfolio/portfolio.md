@@ -7,7 +7,7 @@
 
 Formado como Técnico em Mecatrônica, atualmente estou cursando Banco de Dados pela FATEC com dois anos de Engenharia da Computação na Unifesp e dois anos de Análise e Desenvolvimento de Sistemas na FATEC.
 
-Trabalhei na empresa Jetsoft como estagiário e eventualmente Analista e Desenvolvedor Genexus Junior atuando na manutenção de sistemas legados. Atualmente estou trabalhando na área de Desenvolvimento de Soluções da Embraer, fazendo o papel de Líder de Soluções Técnicas em sistemas utilizados pela área de Engenharia.
+Trabalhei na empresa Jetsoft como estagiário e eventualmente Analista e Desenvolvedor Genexus Junior atuando na manutenção de sistemas legados. Atualmente estou trabalhando na área de Desenvolvimento de Soluções da Embraer, fazendo o papel de Líder de Soluções Técnicas em sistemas utilizados pela área de Engenharia. Quando necessário, também atuo como desenvolvedor em sistemas legados e aplicações web.
 
 Durante o ensino médio também participei da competição de robótica F.I.R.S.T. ETEP TEAM como líder / focal point da área de programação do time. O projeto visa o trabalho em equipe e aplicação de conhecimentos técnicos para a construção de um robô em 6 semanas.
 
