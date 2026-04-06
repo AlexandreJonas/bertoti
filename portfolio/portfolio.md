@@ -164,7 +164,7 @@ O sistema permite o cadastro e visualização destes dados geoespaciais de talh�
 </div>
 
 #### Tecnologias Utilizadas
-- Vue.js: Framework Javascript para o desenvolvimento de interafces web. Permitindo ao usuário a visualização das notícias e a configuração de portais.
+- Vue.js: Framework Javascript para o desenvolvimento de interafces web.
 - SpringBoot: Framework Java utilizado para a criação de serviços RESTful. Estes serviços REST são utilizados pela interface web do projeto.
 - MySQL: Banco relacional usado para o registro dos usuários e dos dados geoespaciais .geojson.
 - Leaflet: Biblioteca Javascript para a criação de mapas interativos. Estes mapas é onde os dados geoespaciais são carregados
@@ -206,7 +206,7 @@ Além da transformação de dados, o projeto deste semestre também incluiu a ap
 #### Tecnologias Utilizadas
 - HTML / CSS: Estruturação e estilização das páginas.
 - Bootstrap: Framework frontend para a fácil estilização responsiva de páginas webs.
-- React: Biblioteca Javascript utilizadao para a construção de componentes dashboard com os dados e indicadores que foram extraídos e transformaados do JIRA
+- React: Biblioteca Javascript utilizadao para a construção de componentes dashboard com os dados e indicadores que foram extraídos e transformados do JIRA
 - SpringBoot: Framework Java utilizado para a criação de serviços RESTful. Estes serviços REST são utilizados pela interface web do projeto e para realizar a carga de dados vindos do JIRA.
 - PostgreSQL: Banco utilizando o modelo estrela para o data warehouse dos dados que se originaram do JIRA.
 - Python: Utilizado na fase de Extração, Transformação e Carga (ETL) dos dados do JIRA e inserindo-os no nosso Data Warehouse
@@ -236,3 +236,25 @@ Além da transformação de dados, o projeto deste semestre também incluiu a ap
 - Organização: Detalhamento técnico pessoal de como separar os passos para as implementações da integração do ETL e da modelagem geral dos dados
 - Comunicação e Trabalho em Equipe: Ajuda na equipe no desenvolvimento de tasks de outros integrantes que aprsentam bugs ou não estavam 'prontas' devido ao entendimento do requisito
 - Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final do ETL. Pensar em formas de corrigir os bugs visuais de alguns gráficos, que foram feitos por outro integrante. Desenvolvimento do fluxo de CI.
+
+### 6° Semestre - Plataforma Zeus
+Em parceria com a Tecsys do Brasil, uma empresa de produtos de identificação de falhas e vulnerabilidades em infraestrutura de distribuição de energia, montamos uma plataforma de processamento de dados da ANEEL que permite analistas a identificar áreas de prioridades para a venda de tais produtos.
+
+Além do processamento e análise de dados, o projeto deste semestre também inclui a aplicação de LGPD e de Machine Learning ****ESPECIFICAR MAIS DEPOIS****
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatecNeoHorizon/API_6S)
+
+***Procurar GIFs/Videos***
+
+<div align="center">
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre5.webp" alt="Projeto 5° Semestre" width="800" />
+</div>
+
+#### Tecnologias Utilizadas
+- HTML / CSS: Estruturação e estilização das páginas.
+- React: Biblioteca Javascript utilizadao para a construção de componentes dashboard com os dados e indicadores que foram extraídos e transformados da base de dados ANEEL
+- Vite: 
+- PostgreSQL: Banco relacional normalizado utlizado para dados LGPD.
+- MongoDB: Banco não relacional para armazenar os dados transformados vindos da base de dados ANEEL
+- Python: Utilizado na fase de Extração, Transformação e Carga (ETL) dos dados ANEEL e inserindo-os no mongoDB
+- fastAPI: Framework python utilizado para a construção de APIs backend. Disponibiliza os dados a serem utilizados pelo front
