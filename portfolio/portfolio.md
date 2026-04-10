@@ -247,7 +247,7 @@ Além do processamento e análise de dados, o projeto deste semestre também inc
 ***Procurar GIFs/Videos***
 
 <div align="center">
-  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre5.webp" alt="Projeto 5° Semestre" width="800" />
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre6.webp" alt="Projeto 5° Semestre" width="800" />
 </div>
 
 #### Tecnologias Utilizadas
