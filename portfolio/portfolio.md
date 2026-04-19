@@ -32,13 +32,14 @@ Durante o ensino médio também participei da competição de robótica F.I.R.S.
 ## Meus Projetos
 
 ### 1° Semestre - BIOS
+<details>
 Atendendo a um cliente interno da FATEC, o projeto de API do primeiro semestre engloba uma plataforma web para o relato e verificação de quaisquer problemas em um ou mais computadores localizados em qualquer labortório da FATEC SJC.
 
 A plataforma inclui funções como a configuração personalizada do layout de cada laboratório (Número de mesas e de máquinas por mesa por exemplo), facilitando a identificação da máquina tanto para o aluno relatando o problema, quanto para o técnico que irá realizar a manutenção.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-u-l-a-s/BIOS)
 
-***Procurar GIFs/Videos***
+***Nota para não esquecer: Procurar GIFs/Videos***
 
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre1.png" alt="Projeto 1° Semestre" width="800" />
@@ -74,14 +75,17 @@ A plataforma inclui funções como a configuração personalizada do layout de c
 - Pró-atividade: Antes de serem definidas discussões sobre realizar o deploy da aplicação, já corri atrás de plataformas que poderiam ser usadas. Assim após realizar com sucesso alguns testes de viabilidade técnica na Python Anywhere eu trouxe nas reuniões a possibilidade fazer tasks de deploy.
 - Resolução de Problemas: Desenvolvimento da lógica por trás da configuração e exibição dinâmica dos layouts de laboratório
 
+</details>
+
 ### 2° Semestre: PARE - Plataforma de Acompanhamento de Rendimento Escolar
+<details>
 Atendendo novamente um cliente interno da FATEC, foi desenvolvido uma aplicação Desktop visando auxiliar professores em atividades como acompanhamento de desempenho de alunos e a documentação/organização de provas. A aplicação tem como público alvo educadores que durante a aula não possuem conexão com a internet, ou não possuem acesso a plataformas com algumas funções em comum como o SIGA da FATEC.
 
 Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou agendadas, além da verificação individual de um aluno e suas notas. Também existe a função de cadastro de salas e seus horários, bem como a de seus alunos.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-u-l-a-s/PARE)
 
-***Procurar GIFs/Videos***
+***Nota para não esquecer: Procurar GIFs/Videos***
 
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre2.jpg" alt="Projeto 2° Semestre" width="800" />
@@ -113,13 +117,15 @@ Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou
 - Comunicação e Trabalho em Equipe: Ao atuar como Scrum Master, sempre verificava o andamento de tarefas, e solicitando que membros com tarefas adiantadas ajudassem outros membros que demonstraram dificuldades.
 - Pró-atividade: Antes mesmo de formalizar a tasks eu já tentava realizar pesquisas ou testes de ferramentas ou features que ainda não tínhamos tanto certeza do funcionamento para manter o ritmo da entrega.
 - Criatividade: Propor soluções para que o usuário consiga realizar vários cadastros de várias entidades de uma só vez no menor número de telas possível, a fim de melhorar a usabilidade. O resultado final foi uma aplicação a qual o usuário utilizava apenas duas telas, sendo que a solução da maioria dos outros grupos foi necessário pelo menos 5 telas
+</details>
 
 ### 3° Semestre - NewsHub
+<details>
 Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plataforma web para o registro, classificação e consulta de notícias publicadas em sites como G1, UOL, Gazeta, Veja, Estadão e InfoMoney.
 
 É possível cadastrar quaisquer portal de notícias e configurá-los dinamicamente para que o NewsHub automaticamente salve as notícias dentro de seu repositório sem precisar acessar constantemente os portais.
 
-***Procurar GIFs/Videos***
+***Nota para não esquecer: Procurar GIFs/Videos***
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatecCoderHood/GSW_API)
 
@@ -149,15 +155,17 @@ Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plat
 - Comunicação e Trabalho em Equipe: Não só constantemente informando o SM e a PO sobre o estado das minhas tasks, como também entrava em contato com outros membros e verificar se eles estão com dificuldades com as suas tasks
 - Pró-atividade: Antes mesmo de formalizar a tasks eu já tentava realizar pesquisas ou testes de ferramentas ou features que ainda não tínhamos tanto certeza do funcionamento para manter o ritmo da entrega. Caso algum membro estivesse com muita dificuldade em uma task essencial, eu me oferecia para ou ajudar, ou assumir a task.
 - Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final para requisitos que podiam gerar impedimentos como garantir que o código de scraping atenda a necessidade de atuar de forma dinâmica de acordo com as configurações específicas de cada portal
+</details>
 
 ### 4° Semestre - Manipulação de dados geoespaciais em tempo real
+<details>
 Atendendo as demandas da empresa parceira Visiona, foi desenvolvido uma plataforma web para a visualização e edição de dados geoespaciais de talhões agrícolas. O objetivo da aplicação é permitir que o analista realize correções destes dados geoespaciais, que vieram a partir de modelos de inteligência artificial.
 
 O sistema permite o cadastro e visualização destes dados geoespaciais de talhões através de um arquivo na extensão .json. Além da edição/correção do mesmo em tempo real mostrado em um mapa. A aplicação também contempla o cadastro de três tipos de usuários: Administrador, Analista e Consultor)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PorygonAPI/Porygon3)
 
-***Procurar GIFs/Videos***
+***Nota para não esquecer: Procurar GIFs/Videos***
 
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre4.jpg" alt="Projeto 2° Semestre" width="800" />
@@ -189,15 +197,17 @@ O sistema permite o cadastro e visualização destes dados geoespaciais de talh�
 - Organização: Detalhamento técnico pessoal de como separar os passos para as implementações do mapa interativo em Leaflet
 - Comunicação e Trabalho em Equipe: Ajuda na equipe no desenvolvimento de tasks de outros integrantes que aprsentam bugs ou não estavam 'prontas' devido ao entendimento do requisito
 - Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final para a edição e exclusão interativa dos mapas no leaflet
+</details>
 
 ### 5° Semestre - Dashboard de Gestão Inteligente de Projetos
+<details>
 Em parceria com a Necto, uma empresa de desenvolvimento de software, montamos uma plataforma centralizada de inteligência de negócios para gestão de projetos. Fornecendo uma maior visibilidade de indicadores e dados críticos vindos da plataforma JIRA, facilitando o processo de tomada de decisões.
 
 Além da transformação de dados, o projeto deste semestre também incluiu a aplicação das práticas de DevOps, incluindo Deploy Automático, Integração Contínua (CI) e Testes Automatizados
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatecNeoHorizon/API_5S)
 
-***Procurar GIFs/Videos***
+***Nota para não esquecer: Procurar GIFs/Videos***
 
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre5.webp" alt="Projeto 5° Semestre" width="800" />
@@ -236,15 +246,17 @@ Além da transformação de dados, o projeto deste semestre também incluiu a ap
 - Organização: Detalhamento técnico pessoal de como separar os passos para as implementações da integração do ETL e da modelagem geral dos dados
 - Comunicação e Trabalho em Equipe: Ajuda na equipe no desenvolvimento de tasks de outros integrantes que aprsentam bugs ou não estavam 'prontas' devido ao entendimento do requisito
 - Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final do ETL. Pensar em formas de corrigir os bugs visuais de alguns gráficos, que foram feitos por outro integrante. Desenvolvimento do fluxo de CI.
+</details>
 
 ### 6° Semestre - Plataforma Zeus
+<details>
 Em parceria com a Tecsys do Brasil, uma empresa de produtos de identificação de falhas e vulnerabilidades em infraestrutura de distribuição de energia, montamos uma plataforma de processamento de dados da ANEEL que permite analistas a identificar áreas de prioridades para a venda de tais produtos.
 
 Além do processamento e análise de dados, o projeto deste semestre também inclui a aplicação de LGPD e de Machine Learning ****ESPECIFICAR MAIS DEPOIS****
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatecNeoHorizon/API_6S)
 
-***Procurar GIFs/Videos***
+***Nota para não esquecer: Procurar GIFs/Videos***
 
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre6.webp" alt="Projeto 5° Semestre" width="800" />
@@ -258,3 +270,5 @@ Além do processamento e análise de dados, o projeto deste semestre também inc
 - MongoDB: Banco não relacional para armazenar os dados transformados vindos da base de dados ANEEL
 - Python: Utilizado na fase de Extração, Transformação e Carga (ETL) dos dados ANEEL e inserindo-os no mongoDB
 - fastAPI: Framework python utilizado para a construção de APIs backend. Disponibiliza os dados a serem utilizados pelo front
+
+</details>
