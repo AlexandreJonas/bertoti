@@ -64,16 +64,29 @@ A plataforma inclui funções como a configuração personalizada do layout de c
 - Deploy e estudo no Python Anywhere
 
 #### Hard Skills
+(OLD)
 - HTML / CSS: Autonomia Total.
 - Bootstrap: Autonomia Parcial. Utilizei as classes de acordo com código já feito por outros membro.
 - Javascript: Autonomia Parcial. Código escrito foi feito por base em código já feito por outro integrante.
 - Python / Flask: Autonomia Total.
 - MySQL: Dependência da modelagem de outro membro
 
+(NEW)
+- 🟢 HTML / CSS
+- 🟡 Bootstrap
+- 🟡 Javascript
+- 🟢 Python / Flask
+- 🟡 MySQL
+
 #### Soft Skills
+(OLD)
 - Comunicação e Trabalho em Equipe: Durante a ausência do Scrum Master em reuniões / discussões devido a imprevistos, assumi o papel do mesmo para garantir a contínua prática da Metodologia Ágil e resolver quaisquer impedimentos que poderiam afetar o desenvolvimento do projeto.
 - Pró-atividade: Antes de serem definidas discussões sobre realizar o deploy da aplicação, já corri atrás de plataformas que poderiam ser usadas. Assim após realizar com sucesso alguns testes de viabilidade técnica na Python Anywhere eu trouxe nas reuniões a possibilidade fazer tasks de deploy.
 - Resolução de Problemas: Desenvolvimento da lógica por trás da configuração e exibição dinâmica dos layouts de laboratório
+(NEW)
+- Facilitador. mediador e cooperativo
+- Autônomo, proativo e dinâmico
+- Metódico e sistemático
 
 </details>
 
