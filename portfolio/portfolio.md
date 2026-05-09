@@ -83,6 +83,7 @@ A plataforma inclui funções como a configuração personalizada do layout de c
 - Comunicação e Trabalho em Equipe: Durante a ausência do Scrum Master em reuniões / discussões devido a imprevistos, assumi o papel do mesmo para garantir a contínua prática da Metodologia Ágil e resolver quaisquer impedimentos que poderiam afetar o desenvolvimento do projeto.
 - Pró-atividade: Antes de serem definidas discussões sobre realizar o deploy da aplicação, já corri atrás de plataformas que poderiam ser usadas. Assim após realizar com sucesso alguns testes de viabilidade técnica na Python Anywhere eu trouxe nas reuniões a possibilidade fazer tasks de deploy.
 - Resolução de Problemas: Desenvolvimento da lógica por trás da configuração e exibição dinâmica dos layouts de laboratório
+
 (NEW)
 - Facilitador. mediador e cooperativo
 - Autônomo, proativo e dinâmico
@@ -278,10 +279,33 @@ Além do processamento e análise de dados, o projeto deste semestre também inc
 #### Tecnologias Utilizadas
 - HTML / CSS: Estruturação e estilização das páginas.
 - React: Biblioteca Javascript utilizadao para a construção de componentes dashboard com os dados e indicadores que foram extraídos e transformados da base de dados ANEEL
-- Vite: 
+- Leaflet: Biblioteca Javascript para a criação de mapas interativos. Utilizado para a exibição de conjuntos no heatmap.
 - PostgreSQL: Banco relacional normalizado utlizado para dados LGPD.
 - MongoDB: Banco não relacional para armazenar os dados transformados vindos da base de dados ANEEL
 - Python: Utilizado na fase de Extração, Transformação e Carga (ETL) dos dados ANEEL e inserindo-os no mongoDB
 - fastAPI: Framework python utilizado para a construção de APIs backend. Disponibiliza os dados a serem utilizados pelo front
+- Docker:
+
+#### Contribuições Pessoais
+- Estudo e configuração inicial para uso do FastApi
+- Criação de endpoints para exibição de dados de indicadores DEC/FEC e dados de perdas de energia
+- Refatoração de filtros utilizados nos endpoints para metodo generico e reutilizavel
+- Correção bug de endpoints de transformadores e subestações para a exibição correta de status
+- Atualização da documentação de endpoints, user stories e definitions of done / definitions of ready
+- Análise de dados brutos da ANEEL relacionados a perdas, transformadores e subestações para a definição da modelagem de dados do projeto
+- Apoio ao definir a estratégia de definição da modelagem geral de conjuntos e seus indicadores DEC/FEC, visando os dados necessários para a implementação das User Stories
+- Rotinas de extração de dados de arquivos .xlsx/.csv
+- Serviço de exibição de conjuntos dentro dos critérios (altos indíces de DEC/FEC) para cálculo SAM (Serviceable Addressable Market) 
+- Implementação de dashboards de TAM/SAM e de previsão de indicadores DEC/VIA via Machine Learning utilizando dados reais do back
+- Implementação total do heatmap de conjuntos
+
+#### Hard Skills
+- 🟢 HTML / CSS
+- 🟢 React
+- 🟢 Leaflet
+- 🟢 PostgreSQL
+- 🟢 MongoDB
+- 🟢 Python/fastAPI
+- 🟡 Docker
 
 </details>
