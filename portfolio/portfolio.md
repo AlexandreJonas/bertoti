@@ -46,12 +46,18 @@ A plataforma inclui funções como a configuração personalizada do layout de c
 </div>
 
 #### Tecnologias Utilizadas
+(OLD)
 - HTML / CSS: Estruturação e estilização das páginas.
 - Bootstrap: Framework frontend para a fácil estilização responsiva de páginas webs.
 - Javascript: Utilizado para a manipulação de elementos HTML em tempo de execução.
 - Flask: Framework web Python utilizado para a renderização dinâmica de páginas webs de acordo com os valores vindos do banco de dados.
 - Python Anywhere: Plataforma utilizada para hospedar tanto a plataforma web, quanto a base de dados
 - MySQL: Banco relacional usado para o registro dos relatos (Ordens de Serviço) e das configurações do laboratório.
+
+(NEW)
+<div align="center">
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/stacksSemestre1.png" alt="Stacks 1° Semestre" width="800" />
+</div>
 
 #### Contribuições Pessoais
 - Visual de acordo com o figma na sprint 1
