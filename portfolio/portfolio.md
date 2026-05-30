@@ -75,13 +75,10 @@ A plataforma inclui funções como a configuração personalizada do layout de c
 - MySQL 🟡
 
 #### Soft Skills
-(OLD)
-- Comunicação e Trabalho em Equipe: Durante a ausência do Scrum Master em reuniões / discussões devido a imprevistos, assumi o papel do mesmo para garantir a contínua prática da Metodologia Ágil e resolver quaisquer impedimentos que poderiam afetar o desenvolvimento do projeto.
-- Pró-atividade: Antes de serem definidas discussões sobre realizar o deploy da aplicação, já corri atrás de plataformas que poderiam ser usadas. Assim após realizar com sucesso alguns testes de viabilidade técnica na Python Anywhere eu trouxe nas reuniões a possibilidade fazer tasks de deploy.
-- Resolução de Problemas: Desenvolvimento da lógica por trás da configuração e exibição dinâmica dos layouts de laboratório
 
-(NEW)
-- Facilitador. mediador e cooperativo
+Durante a execução deste projeto, houve-se mair destaque nas seguinte ssoft skills:
+
+- Facilitador, mediador e cooperativo
 - Autônomo, proativo e dinâmico
 - Metódico e sistemático
 
@@ -121,10 +118,11 @@ Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou
 - MySQL 🟢
 
 #### Soft Skills
-- Organização: Detalhamento técnico de tasks no mais baixo nível possível para auxiliar a entrega das tasks de outros membros da equipe
-- Comunicação e Trabalho em Equipe: Ao atuar como Scrum Master, sempre verificava o andamento de tarefas, e solicitando que membros com tarefas adiantadas ajudassem outros membros que demonstraram dificuldades.
-- Pró-atividade: Antes mesmo de formalizar a tasks eu já tentava realizar pesquisas ou testes de ferramentas ou features que ainda não tínhamos tanto certeza do funcionamento para manter o ritmo da entrega.
-- Criatividade: Propor soluções para que o usuário consiga realizar vários cadastros de várias entidades de uma só vez no menor número de telas possível, a fim de melhorar a usabilidade. O resultado final foi uma aplicação a qual o usuário utilizava apenas duas telas, sendo que a solução da maioria dos outros grupos foi necessário pelo menos 5 telas
+- Organizado, estruturado, detalhista
+- Colaborativo, comunicativo, facilitador, integrador
+- Proativo, antecipativo, diligente
+- Criativo, inovador
+
 </details>
 
 ### 3° Semestre - NewsHub
@@ -147,7 +145,7 @@ Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plat
 - Desenvolovimento de CRUDs de algumas das entidades através do serviços REST criados pelo SpringBoot.
 - Responsável pelas tasks de estudo de tecnologias como Springboot e Jsoup e apresentando um modelo de exemplo para o time.
 - Desenvolvimento da função de scraping no backend do projeto. Garantindo um código enxuto e reutilizável para o scraping de vários portais em sequência e parametrizado para atender às configurações específicas de cada portal conforme registrado pelo usuário.
-- Desenvolvimento da configuração rotineira do scarping, se aproveitando do código reutilizável e parametrizado do item anterior para garantir a fácil configuração de quando o scarping de notícias deve ser realizado.
+- Desenvolvimento da configuração rotineira do scraping, se aproveitando do código reutilizável e parametrizado do item anterior para garantir a fácil configuração de quando o scraping de notícias deve ser realizado.
 - Implementação de validações para garantir que não sejam cadastrados tags ou portaos repetidos.
 
 #### Hard Skills
@@ -157,10 +155,11 @@ Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plat
 - MySQL 🟢
 
 #### Soft Skills
-- Organização: Detalhamento técnico de tasks no mais baixo nível possível para auxiliar a entrega das tasks de outros membros da equipe
-- Comunicação e Trabalho em Equipe: Não só constantemente informando o SM e a PO sobre o estado das minhas tasks, como também entrava em contato com outros membros e verificar se eles estão com dificuldades com as suas tasks
-- Pró-atividade: Antes mesmo de formalizar a tasks eu já tentava realizar pesquisas ou testes de ferramentas ou features que ainda não tínhamos tanto certeza do funcionamento para manter o ritmo da entrega. Caso algum membro estivesse com muita dificuldade em uma task essencial, eu me oferecia para ou ajudar, ou assumir a task.
-- Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final para requisitos que podiam gerar impedimentos como garantir que o código de scraping atenda a necessidade de atuar de forma dinâmica de acordo com as configurações específicas de cada portal
+- Organizado, detalhista, metódico
+- Comunicativo, colaborativo, engajado
+- Proativo, antecipativo, solícito
+- Analítico, adaptável, solucionador
+
 </details>
 
 ### 4° Semestre - Manipulação de dados geoespaciais em tempo real
@@ -198,9 +197,10 @@ O sistema permite o cadastro e visualização destes dados geoespaciais de talh�
 - Leaflet 🟢
 
 #### Soft Skills
-- Organização: Detalhamento técnico pessoal de como separar os passos para as implementações do mapa interativo em Leaflet
-- Comunicação e Trabalho em Equipe: Ajuda na equipe no desenvolvimento de tasks de outros integrantes que aprsentam bugs ou não estavam 'prontas' devido ao entendimento do requisito
-- Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final para a edição e exclusão interativa dos mapas no leaflet
+- Organizado, metódico, detalhista
+- Colaborativo, comunicativo, prestativo
+- Analítico, solucionador, adaptável
+
 </details>
 
 ### 5° Semestre - Dashboard de Gestão Inteligente de Projetos
@@ -245,9 +245,10 @@ Além da transformação de dados, o projeto deste semestre também incluiu a ap
 - Github Actions 🟢
 
 #### Soft Skills
-- Organização: Detalhamento técnico pessoal de como separar os passos para as implementações da integração do ETL e da modelagem geral dos dados
-- Comunicação e Trabalho em Equipe: Ajuda na equipe no desenvolvimento de tasks de outros integrantes que aprsentam bugs ou não estavam 'prontas' devido ao entendimento do requisito
-- Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final do ETL. Pensar em formas de corrigir os bugs visuais de alguns gráficos, que foram feitos por outro integrante. Desenvolvimento do fluxo de CI.
+- Organizado, metódico, detalhista
+- Colaborativo, comunicativo, prestativo
+- Analítico, proativo, versátil
+
 </details>
 
 ### 6° Semestre - Plataforma Zeus
