@@ -296,8 +296,8 @@ Além do processamento e análise de dados, o projeto deste semestre também inc
 - Docker 🟡
 
 #### Soft Skills
-- Organização: Detalhamento técnico pessoal de como separar os passos para as implementações da integração do ETL e da modelagem geral dos dados
-- Comunicação e Trabalho em Equipe: Ajuda na equipe no desenvolvimento de tasks de outros integrantes que aprsentam bugs ou não estavam 'prontas' devido ao entendimento do requisito
-- Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final do ETL. Pensar em formas de corrigir os bugs visuais de alguns gráficos, que foram feitos por outro integrante. Desenvolvimento do fluxo de CI.
+- Organizado, metódico, estruturado
+- Comunicativo, antecipativo, solícito
+- Analítico, proativo, versátil
 
 </details>
