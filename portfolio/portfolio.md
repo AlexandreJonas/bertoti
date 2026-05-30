@@ -76,7 +76,7 @@ A plataforma inclui funções como a configuração personalizada do layout de c
 
 #### Soft Skills
 
-Durante a execução deste projeto, houve-se mair destaque nas seguinte ssoft skills:
+Segue principais soft skills observadas ao longo do projeto:
 
 - Facilitador, mediador e cooperativo
 - Autônomo, proativo e dinâmico
@@ -118,6 +118,10 @@ Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou
 - MySQL 🟢
 
 #### Soft Skills
+
+Segue principais soft skills observadas ao longo do projeto:
+
+
 - Organizado, estruturado, detalhista
 - Colaborativo, comunicativo, facilitador, integrador
 - Proativo, antecipativo, diligente
@@ -155,6 +159,10 @@ Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plat
 - MySQL 🟢
 
 #### Soft Skills
+
+Segue principais soft skills observadas ao longo do projeto:
+
+
 - Organizado, detalhista, metódico
 - Comunicativo, colaborativo, engajado
 - Proativo, antecipativo, solícito
@@ -197,6 +205,10 @@ O sistema permite o cadastro e visualização destes dados geoespaciais de talh�
 - Leaflet 🟢
 
 #### Soft Skills
+
+Segue principais soft skills observadas ao longo do projeto:
+
+
 - Organizado, metódico, detalhista
 - Colaborativo, comunicativo, prestativo
 - Analítico, solucionador, adaptável
@@ -245,6 +257,10 @@ Além da transformação de dados, o projeto deste semestre também incluiu a ap
 - Github Actions 🟢
 
 #### Soft Skills
+
+Segue principais soft skills observadas ao longo do projeto:
+
+
 - Organizado, metódico, detalhista
 - Colaborativo, comunicativo, prestativo
 - Analítico, proativo, versátil
@@ -296,6 +312,10 @@ Além do processamento e análise de dados, o projeto deste semestre também inc
 - Docker 🟡
 
 #### Soft Skills
+
+Segue principais soft skills observadas ao longo do projeto:
+
+
 - Organizado, metódico, estruturado
 - Comunicativo, antecipativo, solícito
 - Analítico, proativo, versátil
