@@ -39,8 +39,6 @@ A plataforma inclui funções como a configuração personalizada do layout de c
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-u-l-a-s/BIOS)
 
-***Nota para não esquecer: Procurar GIFs/Videos***
-
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre1.png" alt="Projeto 1° Semestre" width="800" />
 </div>
@@ -70,19 +68,11 @@ A plataforma inclui funções como a configuração personalizada do layout de c
 - Deploy e estudo no Python Anywhere
 
 #### Hard Skills
-(OLD)
-- HTML / CSS: Autonomia Total.
-- Bootstrap: Autonomia Parcial. Utilizei as classes de acordo com código já feito por outros membro.
-- Javascript: Autonomia Parcial. Código escrito foi feito por base em código já feito por outro integrante.
-- Python / Flask: Autonomia Total.
-- MySQL: Dependência da modelagem de outro membro
-
-(NEW)
-- 🟢 HTML / CSS
-- 🟡 Bootstrap
-- 🟡 Javascript
-- 🟢 Python / Flask
-- 🟡 MySQL
+- HTML / CSS 🟢
+- Bootstrap 🟡
+- Javascript 🟡
+- Python / Flask 🟢
+- MySQL 🟡
 
 #### Soft Skills
 (OLD)
@@ -105,8 +95,6 @@ Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-u-l-a-s/PARE)
 
-***Nota para não esquecer: Procurar GIFs/Videos***
-
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre2.jpg" alt="Projeto 2° Semestre" width="800" />
 </div>
@@ -128,9 +116,9 @@ Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou
 - Exibição de alunos com entregas atrasadas
 
 #### Hard Skills
-- Java: Autonomia Total.
-- Java Swing: Autonomia Total
-- MySQL: Autonomia Total
+- Java 🟢
+- Java Swing 🟢
+- MySQL 🟢
 
 #### Soft Skills
 - Organização: Detalhamento técnico de tasks no mais baixo nível possível para auxiliar a entrega das tasks de outros membros da equipe
@@ -144,8 +132,6 @@ Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou
 Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plataforma web para o registro, classificação e consulta de notícias publicadas em sites como G1, UOL, Gazeta, Veja, Estadão e InfoMoney.
 
 É possível cadastrar quaisquer portal de notícias e configurá-los dinamicamente para que o NewsHub automaticamente salve as notícias dentro de seu repositório sem precisar acessar constantemente os portais.
-
-***Nota para não esquecer: Procurar GIFs/Videos***
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatecCoderHood/GSW_API)
 
@@ -165,10 +151,10 @@ Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plat
 - Implementação de validações para garantir que não sejam cadastrados tags ou portaos repetidos.
 
 #### Hard Skills
-- SpringBoot: Autonomia Total. Estudo realizado de forma autônoma para passar como modelo para o resto da equipe.
-- SpringBoot Cron: Autonomia Total.
-- Jsoup: Autonomia Total.
-- MySQL: Autonomia Total.
+- SpringBoot 🟢
+- SpringBoot Cron 🟢
+- Jsoup 🟢
+- MySQL 🟢
 
 #### Soft Skills
 - Organização: Detalhamento técnico de tasks no mais baixo nível possível para auxiliar a entrega das tasks de outros membros da equipe
@@ -185,10 +171,8 @@ O sistema permite o cadastro e visualização destes dados geoespaciais de talh�
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PorygonAPI/Porygon3)
 
-***Nota para não esquecer: Procurar GIFs/Videos***
-
 <div align="center">
-  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre4.jpg" alt="Projeto 2° Semestre" width="800" />
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre4.jpg" alt="Projeto 4° Semestre" width="800" />
 </div>
 
 #### Tecnologias Utilizadas
@@ -208,10 +192,10 @@ O sistema permite o cadastro e visualização destes dados geoespaciais de talh�
 - Função de um usuário poder aprovar as correções feitas em uma safra
 
 #### Hard Skills
-- Vue.js: Autonomia Total de acordo com o que foi explicado na matéria de Lab BD IV
-- SpringBoot: Autonomia Total
-- MySQL: Autonomia Total
-- Leaflet: Autonomia total. Estudo autônomo
+- Vue.js 🟢
+- SpringBoot 🟢
+- MySQL 🟢
+- Leaflet 🟢
 
 #### Soft Skills
 - Organização: Detalhamento técnico pessoal de como separar os passos para as implementações do mapa interativo em Leaflet
@@ -226,8 +210,6 @@ Em parceria com a Necto, uma empresa de desenvolvimento de software, montamos um
 Além da transformação de dados, o projeto deste semestre também incluiu a aplicação das práticas de DevOps, incluindo Deploy Automático, Integração Contínua (CI) e Testes Automatizados
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatecNeoHorizon/API_5S)
-
-***Nota para não esquecer: Procurar GIFs/Videos***
 
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre5.webp" alt="Projeto 5° Semestre" width="800" />
@@ -255,12 +237,12 @@ Além da transformação de dados, o projeto deste semestre também incluiu a ap
 - Integração e Correção da Dashboard de Contagem de Bugs
 
 #### Hard Skills
-- HTML / CSS & Bootstrap: Autonomia Total de acordo com o que foi explicado no primeiro semestre de ADS
-- React: Autonomia Total de acordo com o que foi ensinado no terceiro semestre de ADS
-- SpringBoot: Autonomia Total de acordo com o que foi aprendido durante a matéria de Laboratório de Banco de Dados III
-- PostgreSQL: Autonomia Total. Estudo autônomo.
-- Python: Autonomia total. Estudo autônomo
-- Github Actions: Autonomia total. Estudo autônomo
+- HTML / CSS & Bootstrap 🟢
+- React 🟢
+- SpringBoot 🟢
+- PostgreSQL 🟢
+- Python 🟢
+- Github Actions 🟢
 
 #### Soft Skills
 - Organização: Detalhamento técnico pessoal de como separar os passos para as implementações da integração do ETL e da modelagem geral dos dados
@@ -276,10 +258,8 @@ Além do processamento e análise de dados, o projeto deste semestre também inc
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatecNeoHorizon/API_6S)
 
-***Nota para não esquecer: Procurar GIFs/Videos***
-
 <div align="center">
-  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre6.webp" alt="Projeto 5° Semestre" width="800" />
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/Semestre6.webp" alt="Projeto 6° Semestre" width="800" />
 </div>
 
 #### Tecnologias Utilizadas
@@ -306,12 +286,17 @@ Além do processamento e análise de dados, o projeto deste semestre também inc
 - Implementação total do heatmap de conjuntos
 
 #### Hard Skills
-- 🟢 HTML / CSS
-- 🟢 React
-- 🟢 Leaflet
-- 🟢 PostgreSQL
-- 🟢 MongoDB
-- 🟢 Python/fastAPI
-- 🟡 Docker
+- HTML / CSS 🟢
+- React 🟢
+- Leaflet 🟢
+- PostgreSQL 🟢
+- MongoDB 🟢
+- Python/fastAPI 🟢
+- Docker 🟡
+
+#### Soft Skills
+- Organização: Detalhamento técnico pessoal de como separar os passos para as implementações da integração do ETL e da modelagem geral dos dados
+- Comunicação e Trabalho em Equipe: Ajuda na equipe no desenvolvimento de tasks de outros integrantes que aprsentam bugs ou não estavam 'prontas' devido ao entendimento do requisito
+- Resolução de Problemas: Desenvolvimento tanto da lógica inicial quanto o código final do ETL. Pensar em formas de corrigir os bugs visuais de alguns gráficos, que foram feitos por outro integrante. Desenvolvimento do fluxo de CI.
 
 </details>
