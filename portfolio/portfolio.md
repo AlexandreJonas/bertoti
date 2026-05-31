@@ -246,6 +246,7 @@ Além da transformação de dados, o projeto deste semestre também incluiu a ap
 </div>
 
 #### Tecnologias Utilizadas
+(OLD)
 - HTML / CSS: Estruturação e estilização das páginas.
 - Bootstrap: Framework frontend para a fácil estilização responsiva de páginas webs.
 - React: Biblioteca Javascript utilizadao para a construção de componentes dashboard com os dados e indicadores que foram extraídos e transformados do JIRA
@@ -253,6 +254,11 @@ Além da transformação de dados, o projeto deste semestre também incluiu a ap
 - PostgreSQL: Banco utilizando o modelo estrela para o data warehouse dos dados que se originaram do JIRA.
 - Python: Utilizado na fase de Extração, Transformação e Carga (ETL) dos dados do JIRA e inserindo-os no nosso Data Warehouse
 - Github Actions: Plataforma de integração e e entrega contínua (CI/CD) utilizado para a aprovação automática de Pull Requests se não houver problemas durante a execução automática de testes e do deploy automatizado
+
+(NEW)
+<div align="center">
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/stacksSemestre5.png" alt="Stacks 5° Semestre" width="800" />
+</div>
 
 #### Contribuições Pessoais
 - Definição de toda a modelagem do banco não relacional
