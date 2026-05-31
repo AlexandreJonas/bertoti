@@ -44,15 +44,6 @@ A plataforma inclui funções como a configuração personalizada do layout de c
 </div>
 
 #### Tecnologias Utilizadas
-(OLD)
-- HTML / CSS: Estruturação e estilização das páginas.
-- Bootstrap: Framework frontend para a fácil estilização responsiva de páginas webs.
-- Javascript: Utilizado para a manipulação de elementos HTML em tempo de execução.
-- Flask: Framework web Python utilizado para a renderização dinâmica de páginas webs de acordo com os valores vindos do banco de dados.
-- Python Anywhere: Plataforma utilizada para hospedar tanto a plataforma web, quanto a base de dados
-- MySQL: Banco relacional usado para o registro dos relatos (Ordens de Serviço) e das configurações do laboratório.
-
-(NEW)
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/stacksSemestre1.png" alt="Stacks 1° Semestre" width="800" />
 </div>
@@ -97,12 +88,6 @@ Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou
 </div>
 
 #### Tecnologias Utilizadas
-(OLD)
-- Java: Todo o código do projeto foi feito nesta linguagem, conforme requisitos do projeto
-- Java Swing: Pacote de componentes gráficos visando a fácil construção formulários GUI (Graphical User Interface).
-- MySQL: Banco relacional usado para o registro de configuração de aulas/salas, lista de provas e lista de alunos.
-
-(NEW)
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/stacksSemestre2.png" alt="Stacks 2° Semestre" width="800" />
 </div>
@@ -144,14 +129,6 @@ Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plat
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatecCoderHood/GSW_API)
 
 #### Tecnologias Utilizadas
-(OLD)
-- Vue.js: Framework Javascript para o desenvolvimento de interafces web. Permitindo ao usuário a visualização das notícias e a configuração de portais.
-- SpringBoot: Framework Java utilizado para a criação de serviços RESTful. Estes serviços REST são utilizados pela interface web do projeto.
-- SpringBoot Cron: Ferramenta do Spirngboot que permite a execução rotineira (por exemplo: a cada n horas ou n dias) de uma função customizada. Utilizada para realizar o scarping de notícias em determinados períodos de tempo
-- Jsoup: Biblioteca Java que atua como um parser HTML. Responsável pela função de 'scraping' das notícias dos portais que o usuário configurou.
-- MySQL: Banco relacional usado para o registro das notícias e configurações dos portais.
-
-(NEW)
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/stacksSemestre3.png" alt="Stacks 3° Semestre" width="800" />
 </div>
@@ -195,14 +172,6 @@ O sistema permite o cadastro e visualização destes dados geoespaciais de talh�
 </div>
 
 #### Tecnologias Utilizadas
-(OLD)
-- Vue.js: Framework Javascript para o desenvolvimento de interafces web.
-- SpringBoot: Framework Java utilizado para a criação de serviços RESTful. Estes serviços REST são utilizados pela interface web do projeto.
-- MySQL: Banco relacional usado para o registro dos usuários e dos dados geoespaciais .geojson.
-- Leaflet: Biblioteca Javascript para a criação de mapas interativos. Estes mapas é onde os dados geoespaciais são carregados
-- Leaflet.draw: Plug-in do Leaflet que permite o desenho, edição, e exclusão de vetores / polígonos que são carregados no mapa interativo do leaftlet. Utilizado para a correção da análise da talhões.
-
-(NEW)
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/stacksSemestre4.png" alt="Stacks 4° Semestre" width="800" />
 </div>
@@ -246,16 +215,6 @@ Além da transformação de dados, o projeto deste semestre também incluiu a ap
 </div>
 
 #### Tecnologias Utilizadas
-(OLD)
-- HTML / CSS: Estruturação e estilização das páginas.
-- Bootstrap: Framework frontend para a fácil estilização responsiva de páginas webs.
-- React: Biblioteca Javascript utilizadao para a construção de componentes dashboard com os dados e indicadores que foram extraídos e transformados do JIRA
-- SpringBoot: Framework Java utilizado para a criação de serviços RESTful. Estes serviços REST são utilizados pela interface web do projeto e para realizar a carga de dados vindos do JIRA.
-- PostgreSQL: Banco utilizando o modelo estrela para o data warehouse dos dados que se originaram do JIRA.
-- Python: Utilizado na fase de Extração, Transformação e Carga (ETL) dos dados do JIRA e inserindo-os no nosso Data Warehouse
-- Github Actions: Plataforma de integração e e entrega contínua (CI/CD) utilizado para a aprovação automática de Pull Requests se não houver problemas durante a execução automática de testes e do deploy automatizado
-
-(NEW)
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/stacksSemestre5.png" alt="Stacks 5° Semestre" width="800" />
 </div>
@@ -304,17 +263,6 @@ Além do processamento e análise de dados, o projeto deste semestre também inc
 </div>
 
 #### Tecnologias Utilizadas
-(OLD)
-- HTML / CSS: Estruturação e estilização das páginas.
-- React: Biblioteca Javascript utilizadao para a construção de componentes dashboard com os dados e indicadores que foram extraídos e transformados da base de dados ANEEL
-- Leaflet: Biblioteca Javascript para a criação de mapas interativos. Utilizado para a exibição de conjuntos no heatmap.
-- PostgreSQL: Banco relacional normalizado utlizado para dados LGPD.
-- MongoDB: Banco não relacional para armazenar os dados transformados vindos da base de dados ANEEL
-- Python: Utilizado na fase de Extração, Transformação e Carga (ETL) dos dados ANEEL e inserindo-os no mongoDB
-- fastAPI: Framework python utilizado para a construção de APIs backend. Disponibiliza os dados a serem utilizados pelo front
-- Docker:
-
-(NEW)
 <div align="center">
   <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/stacksSemestre6.png" alt="Stacks 6° Semestre" width="800" />
 </div>
