@@ -15,7 +15,7 @@ Durante o ensino médio também participei da competição de robótica F.I.R.S.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexandreJonas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-jonas-de-souza-fonseca-989920181/)
 
-## Meus Principais Conhecimentos
+## Principais Tecnologias
 
 - Labview,
 - Genexus 17, Genexus X Evolution 2, Genexus X Evolution 3,
@@ -33,9 +33,15 @@ Durante o ensino médio também participei da competição de robótica F.I.R.S.
 
 ### 1° Semestre - BIOS
 <details>
+(OLD)
 Atendendo a um cliente interno da FATEC, o projeto de API do primeiro semestre engloba uma plataforma web para o relato e verificação de quaisquer problemas em um ou mais computadores localizados em qualquer labortório da FATEC SJC.
 
 A plataforma inclui funções como a configuração personalizada do layout de cada laboratório (Número de mesas e de máquinas por mesa por exemplo), facilitando a identificação da máquina tanto para o aluno relatando o problema, quanto para o técnico que irá realizar a manutenção.
+
+(NEW)
+Atendendo a um cliente interno, o projeto deste semestre envolveu a criação de uma palataforma web para o relato e verificação de possíveis defeitos técnicos nos computadores situados nos laboratórios da FATEC SJC.
+
+Dentre as funções da plataforma, haviam: configuração do layout dos laboratórios, considerando número de mesas e máquinas por mesa, e relatório de problemas identificando a máquina para o técnico responsável
 
 Repositório do Projeto:
 
@@ -79,9 +85,16 @@ Segue principais soft skills observadas ao longo do projeto:
 
 ### 2° Semestre: PARE - Plataforma de Acompanhamento de Rendimento Escolar
 <details>
+
+(OLD)
 Atendendo novamente um cliente interno da FATEC, foi desenvolvido uma aplicação Desktop visando auxiliar professores em atividades como acompanhamento de desempenho de alunos e a documentação/organização de provas. A aplicação tem como público alvo educadores que durante a aula não possuem conexão com a internet, ou não possuem acesso a plataformas com algumas funções em comum como o SIGA da FATEC.
 
 Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou agendadas, além da verificação individual de um aluno e suas notas. Também existe a função de cadastro de salas e seus horários, bem como a de seus alunos.
+
+(NEW)
+Atendendo outro cliente interno, foi desenvolvido uma aplicação desktop para o acompanhamento de desempenho de alunos e a documentação/organização de provas. O público alvo incluía educadores sem acesso à internet durante as aulas, ou que não possuíam palataformas com funções similares como o SIGA da FATEC.
+
+Além das funções de cadastro de alunos e de salas e seus horários, na plataforma foi possível facilmente cadastrar provas agendadas ou já concluídas, além da verificação individual de alunos. 
 
 Repositório do Projeto:
 
@@ -126,9 +139,15 @@ Segue principais soft skills observadas ao longo do projeto:
 
 ### 3° Semestre - NewsHub
 <details>
+(OLD)
 Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plataforma web para o registro, classificação e consulta de notícias publicadas em sites como G1, UOL, Gazeta, Veja, Estadão e InfoMoney.
 
 É possível cadastrar quaisquer portal de notícias e configurá-los dinamicamente para que o NewsHub automaticamente salve as notícias dentro de seu repositório sem precisar acessar constantemente os portais.
+
+(NEW)
+Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plataforma web para o registro, classificação e consulta de notícias publicadas em sites como G1, UOL, Gazeta, Veja, Estadão e InfoMoney.
+
+As funções incluíam o cadastro de portais de notícias, além da configuração dinamica individual para que o NewsHub automaticamente salvasse as notícias dentro de seu repositório sem precisar acessar constantemente os portais.
 
 Repositório do Projeto:
 
