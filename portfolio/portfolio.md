@@ -144,11 +144,17 @@ Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plat
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatecCoderHood/GSW_API)
 
 #### Tecnologias Utilizadas
+(OLD)
 - Vue.js: Framework Javascript para o desenvolvimento de interafces web. Permitindo ao usuário a visualização das notícias e a configuração de portais.
 - SpringBoot: Framework Java utilizado para a criação de serviços RESTful. Estes serviços REST são utilizados pela interface web do projeto.
 - SpringBoot Cron: Ferramenta do Spirngboot que permite a execução rotineira (por exemplo: a cada n horas ou n dias) de uma função customizada. Utilizada para realizar o scarping de notícias em determinados períodos de tempo
 - Jsoup: Biblioteca Java que atua como um parser HTML. Responsável pela função de 'scraping' das notícias dos portais que o usuário configurou.
 - MySQL: Banco relacional usado para o registro das notícias e configurações dos portais.
+
+(NEW)
+<div align="center">
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/stacksSemestre3.png" alt="Stacks 3° Semestre" width="800" />
+</div>
 
 #### Contribuições Pessoais
 - Contribuição com a normalização do Diagrama Entidade-Relacionamento, garantindo que não exista dados redundantes.
