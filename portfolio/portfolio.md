@@ -97,9 +97,15 @@ Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou
 </div>
 
 #### Tecnologias Utilizadas
+(OLD)
 - Java: Todo o código do projeto foi feito nesta linguagem, conforme requisitos do projeto
 - Java Swing: Pacote de componentes gráficos visando a fácil construção formulários GUI (Graphical User Interface).
-- MySQL: Banco relacional usado para o registro dos relatos (Ordens de Serviço) e das configurações do laboratório.
+- MySQL: Banco relacional usado para o registro de configuração de aulas/salas, lista de provas e lista de alunos.
+
+(NEW)
+<div align="center">
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/stacksSemestre2.png" alt="Stacks 2° Semestre" width="800" />
+</div>
 
 #### Contribuições Pessoais
 - Responsável pela modelagem do banco de dados utilizado para o projeto
