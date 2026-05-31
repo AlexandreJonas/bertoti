@@ -20,9 +20,9 @@ Durante o ensino médio também participei da competição de robótica F.I.R.S.
 - Labview,
 - Genexus 17, Genexus X Evolution 2, Genexus X Evolution 3,
 - Visual Basic 6
-- SQLServer, Oracle, PostgreSQL,
+- SQLServer, Oracle, PostgreSQL, MongoDB
 - C, C++, Visual C#,
-- Python, Flask,
+- Python, Flask, FastAPI
 - Java, Springboot, Jsoup
 - HTML, CSS, Bootstrap
 - Typescript, Javascript, React, Vue
