@@ -304,6 +304,7 @@ Além do processamento e análise de dados, o projeto deste semestre também inc
 </div>
 
 #### Tecnologias Utilizadas
+(OLD)
 - HTML / CSS: Estruturação e estilização das páginas.
 - React: Biblioteca Javascript utilizadao para a construção de componentes dashboard com os dados e indicadores que foram extraídos e transformados da base de dados ANEEL
 - Leaflet: Biblioteca Javascript para a criação de mapas interativos. Utilizado para a exibição de conjuntos no heatmap.
@@ -312,6 +313,11 @@ Além do processamento e análise de dados, o projeto deste semestre também inc
 - Python: Utilizado na fase de Extração, Transformação e Carga (ETL) dos dados ANEEL e inserindo-os no mongoDB
 - fastAPI: Framework python utilizado para a construção de APIs backend. Disponibiliza os dados a serem utilizados pelo front
 - Docker:
+
+(NEW)
+<div align="center">
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/stacksSemestre6.png" alt="Stacks 6° Semestre" width="800" />
+</div>
 
 #### Contribuições Pessoais
 - Estudo e configuração inicial para uso do FastApi
