@@ -195,11 +195,17 @@ O sistema permite o cadastro e visualização destes dados geoespaciais de talh�
 </div>
 
 #### Tecnologias Utilizadas
+(OLD)
 - Vue.js: Framework Javascript para o desenvolvimento de interafces web.
 - SpringBoot: Framework Java utilizado para a criação de serviços RESTful. Estes serviços REST são utilizados pela interface web do projeto.
 - MySQL: Banco relacional usado para o registro dos usuários e dos dados geoespaciais .geojson.
 - Leaflet: Biblioteca Javascript para a criação de mapas interativos. Estes mapas é onde os dados geoespaciais são carregados
 - Leaflet.draw: Plug-in do Leaflet que permite o desenho, edição, e exclusão de vetores / polígonos que são carregados no mapa interativo do leaftlet. Utilizado para a correção da análise da talhões.
+
+(NEW)
+<div align="center">
+  <img src="https://github.com/AlexandreJonas/bertoti/blob/main/portfolio/assets/stacksSemestre4.png" alt="Stacks 4° Semestre" width="800" />
+</div>
 
 #### Contribuições Pessoais
 - Scripts de criação e inserção de tabela de permissão e logs conforme modelo do banco
