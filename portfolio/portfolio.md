@@ -186,9 +186,15 @@ Segue principais soft skills observadas ao longo do projeto:
 
 ### 4° Semestre - Manipulação de dados geoespaciais em tempo real
 <details>
+(OLD)
 Atendendo as demandas da empresa parceira Visiona, foi desenvolvido uma plataforma web para a visualização e edição de dados geoespaciais de talhões agrícolas. O objetivo da aplicação é permitir que o analista realize correções destes dados geoespaciais, que vieram a partir de modelos de inteligência artificial.
 
 O sistema permite o cadastro e visualização destes dados geoespaciais de talhões através de um arquivo na extensão .json. Além da edição/correção do mesmo em tempo real mostrado em um mapa. A aplicação também contempla o cadastro de três tipos de usuários: Administrador, Analista e Consultor.
+
+(NEW)
+Atendendo as demandas da empresa parceira Visiona, foi desenvolvido uma plataforma web para a visualização e edição de dados geoespaciais de talhões agrícolas. Permitindo assim que o analista realize correções de dados de modelos de inteligência artificial.
+
+O sistema permitia o cadastro e visualização dos dados geoespaciais através de um arquivo na extensão .json; além da edição/correção tempo real mostrado em um mapa. A aplicação também contemplava o cadastro de diferentes tipos de usuários com diferentes permissões
 
 Repositório do Projeto:
 
