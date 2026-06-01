@@ -33,12 +33,6 @@ Durante o ensino médio também participei da competição de robótica F.I.R.S.
 
 ### 1° Semestre - BIOS
 <details>
-(OLD)
-Atendendo a um cliente interno da FATEC, o projeto de API do primeiro semestre engloba uma plataforma web para o relato e verificação de quaisquer problemas em um ou mais computadores localizados em qualquer labortório da FATEC SJC.
-
-A plataforma inclui funções como a configuração personalizada do layout de cada laboratório (Número de mesas e de máquinas por mesa por exemplo), facilitando a identificação da máquina tanto para o aluno relatando o problema, quanto para o técnico que irá realizar a manutenção.
-
-(NEW)
 Atendendo a um cliente interno, o projeto deste semestre envolveu a criação de uma palataforma web para o relato e verificação de possíveis defeitos técnicos nos computadores situados nos laboratórios da FATEC SJC.
 
 Dentre as funções da plataforma, haviam: configuração do layout dos laboratórios, considerando número de mesas e máquinas por mesa, e relatório de problemas identificando a máquina para o técnico responsável
@@ -85,14 +79,7 @@ Segue principais soft skills observadas ao longo do projeto:
 
 ### 2° Semestre: PARE - Plataforma de Acompanhamento de Rendimento Escolar
 <details>
-
-(OLD)
-Atendendo novamente um cliente interno da FATEC, foi desenvolvido uma aplicação Desktop visando auxiliar professores em atividades como acompanhamento de desempenho de alunos e a documentação/organização de provas. A aplicação tem como público alvo educadores que durante a aula não possuem conexão com a internet, ou não possuem acesso a plataformas com algumas funções em comum como o SIGA da FATEC.
-
-Na plataforma é possível facilmente cadastras/visualizar provas concluídas ou agendadas, além da verificação individual de um aluno e suas notas. Também existe a função de cadastro de salas e seus horários, bem como a de seus alunos.
-
-(NEW)
-Atendendo outro cliente interno, foi desenvolvido uma aplicação desktop para o acompanhamento de desempenho de alunos e a documentação/organização de provas. O público alvo incluía educadores sem acesso à internet durante as aulas, ou que não possuíam palataformas com funções similares como o SIGA da FATEC.
+Atendendo outro cliente interno, foi desenvolvido uma aplicação desktop para o acompanhamento de desempenho de alunos e a documentação/organização de provas. O público alvo incluia educadores sem acesso à internet durante as aulas, ou que não possuíam palataformas com funções similares como o SIGA da FATEC.
 
 Além das funções de cadastro de alunos e de salas e seus horários, na plataforma foi possível facilmente cadastrar provas agendadas ou já concluídas, além da verificação individual de alunos. 
 
@@ -139,15 +126,9 @@ Segue principais soft skills observadas ao longo do projeto:
 
 ### 3° Semestre - NewsHub
 <details>
-(OLD)
 Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plataforma web para o registro, classificação e consulta de notícias publicadas em sites como G1, UOL, Gazeta, Veja, Estadão e InfoMoney.
 
-É possível cadastrar quaisquer portal de notícias e configurá-los dinamicamente para que o NewsHub automaticamente salve as notícias dentro de seu repositório sem precisar acessar constantemente os portais.
-
-(NEW)
-Em parceria com a GSW (Global Solutions & Web) desenvolvemos o NewsHub, uma plataforma web para o registro, classificação e consulta de notícias publicadas em sites como G1, UOL, Gazeta, Veja, Estadão e InfoMoney.
-
-As funções incluíam o cadastro de portais de notícias, além da configuração dinamica individual para que o NewsHub automaticamente salvasse as notícias dentro de seu repositório sem precisar acessar constantemente os portais.
+As funções incluiam o cadastro de portais de notícias, além da configuração dinamica individual para que o NewsHub automaticamente salvasse as notícias dentro de seu repositório sem precisar acessar constantemente os portais.
 
 Repositório do Projeto:
 
@@ -186,12 +167,6 @@ Segue principais soft skills observadas ao longo do projeto:
 
 ### 4° Semestre - Manipulação de dados geoespaciais em tempo real
 <details>
-(OLD)
-Atendendo as demandas da empresa parceira Visiona, foi desenvolvido uma plataforma web para a visualização e edição de dados geoespaciais de talhões agrícolas. O objetivo da aplicação é permitir que o analista realize correções destes dados geoespaciais, que vieram a partir de modelos de inteligência artificial.
-
-O sistema permite o cadastro e visualização destes dados geoespaciais de talhões através de um arquivo na extensão .json. Além da edição/correção do mesmo em tempo real mostrado em um mapa. A aplicação também contempla o cadastro de três tipos de usuários: Administrador, Analista e Consultor.
-
-(NEW)
 Atendendo as demandas da empresa parceira Visiona, foi desenvolvido uma plataforma web para a visualização e edição de dados geoespaciais de talhões agrícolas. Permitindo assim que o analista realize correções de dados de modelos de inteligência artificial.
 
 O sistema permitia o cadastro e visualização dos dados geoespaciais através de um arquivo na extensão .json; além da edição/correção tempo real mostrado em um mapa. A aplicação também contemplava o cadastro de diferentes tipos de usuários com diferentes permissões
@@ -237,9 +212,9 @@ Segue principais soft skills observadas ao longo do projeto:
 
 ### 5° Semestre - Dashboard de Gestão Inteligente de Projetos
 <details>
-Em parceria com a Necto, uma empresa de desenvolvimento de software, montamos uma plataforma centralizada de inteligência de negócios para gestão de projetos. Fornecendo uma maior visibilidade de indicadores e dados críticos vindos da plataforma JIRA, facilitando o processo de tomada de decisões.
+Em parceria com a Necto, construímos uma plataforma centralizada de inteligência de negócios para gestão de projetos. Fornecendo uma melhor visibilidade de indicadores e dados críticos vindos da plataforma JIRA, facilitando o processo de tomada de decisões.
 
-Além da transformação de dados, o projeto deste semestre também incluiu a aplicação das práticas de DevOps, incluindo Deploy Automático, Integração Contínua (CI) e Testes Automatizados
+Além da transformação de dados, também foram aplicadas práticas de DevOps
 
 Repositório do Projeto:
 
@@ -287,9 +262,9 @@ Segue principais soft skills observadas ao longo do projeto:
 
 ### 6° Semestre - Plataforma Zeus
 <details>
-Em parceria com a Tecsys do Brasil, uma empresa de produtos de identificação de falhas e vulnerabilidades em infraestrutura de distribuição de energia, montamos uma plataforma de processamento de dados da ANEEL que permite analistas a identificar áreas de prioridades para a venda de tais produtos.
+Em parceria com a Tecsys do Brasil, foi desenvolvido uma plataforma de processamento de dados da ANEEL que permite analistas a identificar áreas de prioridades para a venda de produtos de identificação de falhas em infraestutura de distribuição de energia.
 
-Além do processamento e análise de dados, o projeto deste semestre também inclui a aplicação de LGPD e de Machine Learning ****ESPECIFICAR MAIS DEPOIS****
+Fora o processamento e análise de dados, o projeto também incluia funções como a previsão de métricas via Machine Learning, exibição de indicadores em um mapa geoespacial de calor. Além disso também foi aplicado as normas de LGPD. 
 
 Repositório do Projeto:
 
