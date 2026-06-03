@@ -108,6 +108,7 @@ Repositório do Projeto:
 </div>
 
 #### Contribuições Pessoais
+(OLD)
 - Responsável pela modelagem do banco de dados utilizado para o projeto
 - Estudo, passagem de conhecimento e criação de exemplos de interfaces gráficas utilizando Java Swing
 - Papel de Scrum Master
@@ -117,6 +118,17 @@ Repositório do Projeto:
 - Correção de bugs (Perda de dados ao minimizar a tela, trabalhos com status incorreto, etc.)
 - Função de atualizar notas e data de entrega de trabalhos
 - Exibição de alunos com entregas atrasadas
+
+(NEW)
+- Modelagem de todo o banco de dados
+- Passagem de conhecimento e de exemplo de utilização do Java Swing
+- Scrum Master
+- Atualização documentação e artefatos Scrum
+- Proposta de UX de cadastro de vários alunos em uma única operação
+- Rotina de inserção de vários alunos no banco de uma vez
+- Correção de bugs (Perda de dados ao minimizar a tela, dados incorretos, etc.)
+- Atualização de registros nas colunas de notas e data de entregas
+- Visual indicando se aluno está com entrega atrasada
 
 #### Hard Skills
 - Java 🟢
