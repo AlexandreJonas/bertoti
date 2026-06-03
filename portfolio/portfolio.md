@@ -51,6 +51,7 @@ Repositório do Projeto:
 </div>
 
 #### Contribuições Pessoais
+(OLD)
 - Visual de acordo com o figma na sprint 1
 - Exibição de OS de acordo com os dados já cadastrados no banco
 - Implementação da renderização dinâmica da página de configuração de laboratórios
@@ -59,6 +60,16 @@ Repositório do Projeto:
 - Separação visual entre as OS reportadas e as OS resolvidas
 - Ao visualizar o layout de um laboratório, é constatado quais máquinas estão com OS reportadas
 - Deploy e estudo no Python Anywhere
+
+(NEW)
+- Estilização tela de criação de OS de acordo com figma
+- Montagem visual de lista de OS de acordo com dados do banco
+- Renderização dinâmica de posicionamento de máquinas e mesas de acordo com configuração do laboratório
+- Criação de campo e rotina de banco adição de comentário pelo técnico
+- Alterar status de OS para resolvida ao clicar no botão correpondente
+- Estilização dinâmica de OS resolvidas
+- Estilização de máquinas com OS reportadas ao visualizar o layout
+- Procedimento de Deploy da aplicação inteira no Python Anywhere
 
 #### Hard Skills
 - HTML / CSS 🟢
