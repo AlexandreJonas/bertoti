@@ -61,11 +61,11 @@ Repositório do Projeto:
 - Procedimento de Deploy da aplicação inteira no Python Anywhere
 
 #### Hard Skills
-- HTML / CSS 🟢
-- Bootstrap 🟡
-- Javascript 🟡
-- Python / Flask 🟢
-- MySQL 🟡
+- HTML / CSS ⬤⬤⬤
+- Bootstrap ⬤⬤
+- Javascript ⬤⬤
+- Python / Flask ⬤⬤⬤
+- MySQL ⬤⬤
 
 #### Soft Skills
 
@@ -108,9 +108,9 @@ Repositório do Projeto:
 - Visual indicando se aluno está com entrega atrasada
 
 #### Hard Skills
-- Java 🟢
-- Java Swing 🟢
-- MySQL 🟢
+- Java ⬤⬤⬤
+- Java Swing ⬤⬤⬤
+- MySQL ⬤⬤⬤
 
 #### Soft Skills
 
@@ -148,10 +148,10 @@ Repositório do Projeto:
 - Implementação de validações para garantir que não sejam cadastrados tags ou portaos repetidos.
 
 #### Hard Skills
-- SpringBoot 🟢
-- SpringBoot Cron 🟢
-- Jsoup 🟢
-- MySQL 🟢
+- SpringBoot ⬤⬤⬤
+- SpringBoot Cron ⬤⬤⬤
+- Jsoup ⬤⬤⬤
+- MySQL ⬤⬤⬤
 
 #### Soft Skills
 
@@ -194,10 +194,10 @@ Repositório do Projeto:
 - Função de um usuário poder aprovar as correções feitas em uma safra
 
 #### Hard Skills
-- Vue.js 🟢
-- SpringBoot 🟢
-- MySQL 🟢
-- Leaflet 🟢
+- Vue.js ⬤⬤⬤
+- SpringBoot ⬤⬤⬤
+- MySQL ⬤⬤⬤
+- Leaflet ⬤⬤⬤
 
 #### Soft Skills
 
@@ -242,12 +242,12 @@ Repositório do Projeto:
 - Integração e Correção da Dashboard de Contagem de Bugs
 
 #### Hard Skills
-- HTML / CSS & Bootstrap 🟢
-- React 🟢
-- SpringBoot 🟢
-- PostgreSQL 🟢
-- Python 🟢
-- Github Actions 🟢
+- HTML / CSS & Bootstrap ⬤⬤⬤
+- React ⬤⬤⬤
+- SpringBoot ⬤⬤⬤
+- PostgreSQL ⬤⬤⬤
+- Python ⬤⬤⬤
+- Github Actions ⬤⬤⬤
 
 #### Soft Skills
 
@@ -293,13 +293,13 @@ Repositório do Projeto:
 - Implementação total do heatmap de conjuntos
 
 #### Hard Skills
-- HTML / CSS 🟢
-- React 🟢
-- Leaflet 🟢
-- PostgreSQL 🟢
-- MongoDB 🟢
-- Python/fastAPI 🟢
-- Docker 🟡
+- HTML / CSS ⬤⬤⬤
+- React ⬤⬤⬤
+- Leaflet ⬤⬤⬤
+- PostgreSQL ⬤⬤⬤
+- MongoDB ⬤⬤⬤
+- Python/fastAPI ⬤⬤⬤
+- Docker ⬤⬤
 
 #### Soft Skills
 
