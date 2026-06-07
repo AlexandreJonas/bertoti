@@ -51,17 +51,6 @@ Repositório do Projeto:
 </div>
 
 #### Contribuições Pessoais
-(OLD)
-- Visual de acordo com o figma na sprint 1
-- Exibição de OS de acordo com os dados já cadastrados no banco
-- Implementação da renderização dinâmica da página de configuração de laboratórios
-- Funcionalidade do técnico poder adicionar um comentário a Ordem de Serviço após finalizar a manutenção
-- Funcionalidade de alteração do status da OS de reportada para resolvida
-- Separação visual entre as OS reportadas e as OS resolvidas
-- Ao visualizar o layout de um laboratório, é constatado quais máquinas estão com OS reportadas
-- Deploy e estudo no Python Anywhere
-
-(NEW)
 - Estilização tela de criação de OS de acordo com figma
 - Montagem visual de lista de OS de acordo com dados do banco
 - Renderização dinâmica de posicionamento de máquinas e mesas de acordo com configuração do laboratório
@@ -108,18 +97,6 @@ Repositório do Projeto:
 </div>
 
 #### Contribuições Pessoais
-(OLD)
-- Responsável pela modelagem do banco de dados utilizado para o projeto
-- Estudo, passagem de conhecimento e criação de exemplos de interfaces gráficas utilizando Java Swing
-- Papel de Scrum Master
-- Atualização da Documentação e de artefatos como o Gráfico Burndown
-- Sugestão / Modelagem da tela a fim de que a mesma permita o cadastro dinâmico de vários alunos de uma só vez
-- Desenvolvimento da feature de inserção de vários alunos
-- Correção de bugs (Perda de dados ao minimizar a tela, trabalhos com status incorreto, etc.)
-- Função de atualizar notas e data de entrega de trabalhos
-- Exibição de alunos com entregas atrasadas
-
-(NEW)
 - Modelagem de todo o banco de dados
 - Passagem de conhecimento e de exemplo de utilização do Java Swing
 - Scrum Master
